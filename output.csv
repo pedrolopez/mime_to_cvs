@@ -1,0 +1,855 @@
+,LocationID,Name,Unique ID,Cancel Date,Cancel Screen,Total,User Name
+0,47,Bernatellos,de120853-db6e-4a4a-9100-8b097644b68d,5/9/2020 12:02:23 AM,Insufficient Funds,$2.96,JSCHUL
+1,47,Bernatellos,9e9fc702-30d6-410e-acd0-0973bac3fe8e,5/9/2020 12:03:36 AM,Pay with Account,$1.59,
+2,43,Agropur Inc.,2453d2d3-be7b-4eb5-bc39-42c6bbf55b66,5/9/2020 12:52:39 AM,Pay with Account,$2.37,
+3,55,Chem Design,cbbafb7b-3368-46b6-b557-42d465bd719b,5/9/2020 1:27:55 AM,Pay with Credit,$2.39,
+4,43,Agropur Inc.,6b6c310e-0575-40c7-bf70-b3441f1e16f1,5/9/2020 1:45:09 AM,Insufficient Funds,$2.08,MARQUES
+5,43,Agropur Inc.,6cc6657c-e1ba-4961-a010-e8b095cb9312,5/9/2020 2:03:28 AM,Pay with Account,$1.03,
+6,43,Agropur Inc.,893b9a3b-df38-4518-a57c-d7073f63b41b,5/9/2020 2:07:57 AM,Scan Screen,$1.61,
+7,43,Agropur Inc.,7b8d0cf4-f806-4a0f-8467-fdbff6a1c1fc,5/9/2020 2:09:12 AM,Pay with Account,$1.59,
+8,47,Bernatellos,88a711b9-8c5f-44a7-98aa-d2c6cf65256f,5/9/2020 3:09:32 AM,Pay with Credit,$1.69,
+9,47,Bernatellos,b360ad7f-8707-4e8d-a400-664877baab07,5/9/2020 3:10:12 AM,Pay with Credit,$1.69,
+10,47,Bernatellos,53f0fcf5-ec0c-448b-b648-96538fde7cb7,5/9/2020 6:28:06 AM,Scan Screen,$3.47,
+11,63,Agropur Cheddar,4f6e569d-8c57-4918-aa9f-ff72307aaf87,5/9/2020 9:27:59 AM,Insufficient Funds,$3.44,MSTUEB
+12,63,Agropur Cheddar,28e11ae0-9d87-499a-a39c-53f9603560b9,5/9/2020 9:28:14 AM,Scan Screen,$3.47,
+13,43,Agropur Inc.,c37eefc2-579b-4d7e-93b8-359fddc3b3e0,5/9/2020 2:56:54 PM,Scan Screen,$5.26,
+14,63,Agropur Cheddar,c37accfa-edc8-4e3a-a685-c8b7278463d2,5/9/2020 5:31:29 PM,Scan Screen,$2.83,
+15,63,Agropur Cheddar,ca3286fa-f799-45b5-ac96-3b30a867379c,5/9/2020 6:04:36 PM,Insufficient Funds,$5.19,DHANDS
+16,43,Agropur Inc.,20fc28a7-0693-453c-82b8-8a56c1f2def6,5/9/2020 6:12:40 PM,Insufficient Funds,$1.57,VPEGGY
+17,43,Agropur Inc.,d20d6422-02fe-4562-9649-7ef5ad68f5d7,5/9/2020 6:13:34 PM,Pay with Credit,$1.89,
+18,63,Agropur Cheddar,291d77d5-12f0-4228-9845-57eac3dc7fcc,5/9/2020 6:30:28 PM,Scan Screen,$3.15,
+19,47,Bernatellos,dc7440d0-1a2f-4cd9-a835-f0aa746c6198,5/9/2020 7:12:08 PM,Insufficient Funds,$1.60,CVAC000538797
+20,43,Agropur Inc.,516db54e-4409-40c1-a27e-2626da8138f5,5/9/2020 8:25:29 PM,Pay with Account,$5.21,
+21,43,Agropur Inc.,00583f68-d2b3-4280-8be1-c61b4611a6e3,5/10/2020 1:42:22 AM,Scan Screen,$2.94,
+22,64,Badger Sheet Metal,46036721-e3ad-4ec6-bf2c-d75d0f15bcce,5/10/2020 4:06:06 AM,Scan Screen,$2.83,
+23,63,Agropur Cheddar,e6258af8-632a-40d6-85df-c6e8ad66ddb8,5/10/2020 5:00:19 AM,Pay with Account,$1.60,
+24,64,Badger Sheet Metal,8568542c-7e3d-41ca-8b3f-9a9e502f3b44,5/10/2020 6:34:13 AM,Pay with Account,$2.70,
+25,55,Chem Design,77e39739-dd26-4946-8f32-1d94da7068ba,5/10/2020 7:14:21 AM,Pay with Credit,$2.83,
+26,55,Chem Design,0a343293-6e2b-44f8-9a31-155f52aa2d6b,5/10/2020 7:16:22 AM,Pay with Credit,$4.08,
+27,55,Chem Design,a1949ff1-cf8d-47b1-acf6-773aa6509cd7,5/10/2020 7:16:58 AM,Pay with Credit,$4.08,
+28,55,Chem Design,ee20cdb7-6752-4a0a-ab25-4322eeade9c1,5/10/2020 7:17:41 AM,Insufficient Funds,$4.04,MLUEDK
+29,62,Agropur Feta,9458faed-7a89-4d6d-9c9c-d193da5ef003,5/10/2020 8:04:05 AM,Scan Screen,$1.61,
+30,63,Agropur Cheddar,9ee94b0f-c3a9-4756-9cf3-ff26f175eb98,5/10/2020 12:49:59 PM,Scan Screen,$2.78,
+31,55,Chem Design,4306f83b-c11e-4df3-9bf0-3c9cf8bd857a,5/10/2020 5:34:30 PM,Scan Screen,$2.10,
+32,63,Agropur Cheddar,527ecd72-dfba-4228-a962-85b4621b7688,5/10/2020 10:35:53 PM,Pay with Account,$3.75,
+33,63,Agropur Cheddar,f92b247e-eb27-4ddd-a284-c9d4cfb858cd,5/10/2020 10:40:12 PM,Scan Screen,$3.47,
+34,62,Agropur Feta,3a668d1a-4f51-45a7-bbb0-9dafb3de991c,5/10/2020 11:36:35 PM,Pay with Credit,$1.61,
+35,62,Agropur Feta,9c199c7d-4941-4b5c-a50d-3251fbb7268e,5/10/2020 11:37:08 PM,Pay with Credit,$1.61,
+36,55,Chem Design,8986c5df-cb59-485f-a785-454ddb391144,5/11/2020 12:28:51 AM,Insufficient Funds,$3.44,MPARRSON
+37,55,Chem Design,b08254dc-10a7-4a57-9a74-cb9296232934,5/11/2020 12:29:33 AM,Insufficient Funds,$3.44,MPARRSON
+38,55,Chem Design,3adc8dd8-4948-43b4-a6d6-09d06f514d8e,5/11/2020 12:29:59 AM,Insufficient Funds,$3.01,MPARRSON
+39,55,Chem Design,3c332ae3-e872-4ba7-9e06-a37ff361165f,5/11/2020 3:34:08 AM,Insufficient Funds,$1.97,RDEHUT
+40,55,Chem Design,eb80705a-ae62-4d24-8c2c-a7d37b50af05,5/11/2020 3:55:34 AM,Scan Screen,$2.94,
+41,55,Chem Design,d26e08ce-fb5c-451c-a955-076336de76b0,5/11/2020 4:56:35 AM,Scan Screen,$4.73,
+42,64,Badger Sheet Metal,ef89155d-2681-42f1-b05a-ca698d51efaa,5/11/2020 6:01:25 AM,Insufficient Funds,$1.87,BWHIT
+43,55,Chem Design,5865e7fa-ce6d-4ead-b78e-79bbc7b89d2a,5/11/2020 6:28:51 AM,Pay with Credit,$4.73,
+44,64,Badger Sheet Metal,7c6b6e9e-0ff6-42af-bfa2-be3f0c46846e,5/11/2020 6:59:00 AM,Scan Screen,$3.47,
+45,64,Badger Sheet Metal,62ee472a-e6a3-4ad1-af77-d3d77d82c86d,5/11/2020 7:13:29 AM,Insufficient Funds,$1.03,DSOLPE
+46,47,Bernatellos,72635cc6-9efb-43e3-b01e-a2273c36302f,5/11/2020 7:38:08 AM,Insufficient Funds,$1.59,MBARTEL
+47,64,Badger Sheet Metal,6219fd6f-0e9d-4cc4-8d8c-796ddef4d3c2,5/11/2020 7:51:50 AM,Pay with Account,$1.38,
+48,64,Badger Sheet Metal,3d7587e3-5b30-4673-a02e-6337f483fdd4,5/11/2020 8:19:18 AM,Insufficient Funds,$3.74,BWHIT
+49,43,Agropur Inc.,ff3cf715-877b-45c7-966c-a1185c46f15a,5/11/2020 8:56:54 AM,Pay with Account,$1.59,
+50,63,Agropur Cheddar,60476675-d6af-448b-8106-3bef107702c2,5/11/2020 9:56:03 AM,Insufficient Funds,$4.94,DSTEAR
+51,55,Chem Design,04e98970-9bb3-46ad-8f0f-bece4f5f1f81,5/11/2020 11:32:42 AM,Insufficient Funds,$1.62,MHINTE
+52,43,Agropur Inc.,ef70feb9-81b4-45fa-98d2-031e9dd2d9fe,5/11/2020 11:59:39 AM,Pay with Account,$1.57,
+53,64,Badger Sheet Metal,6f88c829-ef18-4b06-acfe-a07cf0231505,5/11/2020 12:00:13 PM,Insufficient Funds,$4.69,RSTENZ
+54,64,Badger Sheet Metal,f66d9b9c-b826-41bd-bdb5-2a7f4798e711,5/11/2020 12:10:27 PM,Insufficient Funds,$2.91,KMCGIN
+55,47,Bernatellos,a5901194-5d8f-4344-ac1e-ac85346859d1,5/11/2020 12:17:59 PM,Scan Screen,$2.62,
+56,64,Badger Sheet Metal,03d5c5f4-d91c-4f78-9266-1504ba104f76,5/11/2020 12:31:52 PM,Insufficient Funds,$1.76,CVAC000539138
+57,64,Badger Sheet Metal,b301cccd-ef31-4d96-9876-d2212408e3cc,5/11/2020 12:47:19 PM,Insufficient Funds,$1.33,CBARES
+58,47,Bernatellos,f7ef69e9-187e-4ee9-b16c-9ae8ff1d2415,5/11/2020 12:57:21 PM,Pay with Account,$1.59,
+59,47,Bernatellos,569c42be-9155-489f-9037-4768bddf5ee4,5/11/2020 1:20:24 PM,Pay with Credit,$3.15,
+60,43,Agropur Inc.,f61df094-8c59-4434-84fd-d242bf860417,5/11/2020 1:50:17 PM,Pay with Account,$2.62,
+61,47,Bernatellos,e8c390ec-cf22-4241-a94f-8645a86a1f37,5/11/2020 3:13:48 PM,Pay with Credit,$3.48,
+62,63,Agropur Cheddar,a2d70623-79d8-45ce-bd09-0aaabdaa57dc,5/11/2020 4:11:14 PM,Pay with Account,$3.21,
+63,63,Agropur Cheddar,a14678d6-a9e5-4bb1-8943-518883d544f1,5/11/2020 4:12:34 PM,Pay with Account,$5.79,
+64,63,Agropur Cheddar,c7fdf1fc-ee50-4a09-ac70-b8bad3f20f99,5/11/2020 4:32:12 PM,Insufficient Funds,$2.50,MINTON65
+65,47,Bernatellos,a92ebfab-6f4c-4d88-a72d-32a07d473fb7,5/11/2020 4:35:47 PM,Pay with Credit,$6.19,
+66,47,Bernatellos,4121af03-3c04-4719-9090-ba5d81afa0d2,5/11/2020 4:36:35 PM,Pay with Credit,$4.67,
+67,47,Bernatellos,5d64e1b6-20d2-47e8-a916-5db978e46f45,5/11/2020 4:37:47 PM,Pay with Credit,$2.03,
+68,47,Bernatellos,6c722b03-f252-403f-b63e-ad924cb90f0a,5/11/2020 5:22:15 PM,Pay with Credit,$0.99,
+69,63,Agropur Cheddar,63e150ad-26a6-4adb-a437-e577b5d19fa6,5/11/2020 5:52:39 PM,Insufficient Funds,$2.80,SZEMPE
+70,55,Chem Design,c92583d6-42dd-46af-ae9a-5000b83350cb,5/11/2020 5:54:45 PM,Scan Screen,$2.10,
+71,64,Badger Sheet Metal,acbad7ed-a72f-4dd8-ae5c-af9d5aef1ecf,5/11/2020 7:22:05 PM,Insufficient Funds,$4.48,TSCHAD
+72,47,Bernatellos,b2aebe93-2720-41f7-b654-858ccc97bd6d,5/11/2020 7:43:48 PM,Pay with Credit,$2.73,
+73,63,Agropur Cheddar,add8360f-8775-41c5-b83a-b730f657d7e9,5/11/2020 7:45:35 PM,Scan Screen,$2.94,
+74,62,Agropur Feta,69900714-b7be-45df-b3be-5c765ba68beb,5/11/2020 8:49:12 PM,Pay with Credit,$2.94,
+75,47,Bernatellos,8f719ac1-5e59-4717-b615-56709c40306c,5/11/2020 9:46:05 PM,Pay with Credit,$3.22,
+76,43,Agropur Inc.,06a311d1-7d9a-4dff-b107-326fad53b2ef,5/11/2020 10:36:41 PM,Pay with Account,$12.56,
+77,43,Agropur Inc.,a517ff64-c391-4927-bae3-1729f9804040,5/12/2020 12:13:03 AM,Insufficient Funds,$1.59,RYANKACZ
+78,43,Agropur Inc.,e45b9dea-5031-48f5-8efe-4230712f68aa,5/12/2020 1:35:24 AM,Scan Screen,$1.69,
+79,55,Chem Design,dadf13ae-959e-4141-9bd9-8258d87c8720,5/12/2020 3:47:27 AM,Pay with Credit,$1.52,
+80,62,Agropur Feta,8eb79185-d3e1-43d8-8fc9-434ac1d56490,5/12/2020 7:03:14 AM,Pay with Credit,$2.94,
+81,55,Chem Design,ed3a13a3-cc50-4bab-b1b0-8fb6d6b0a093,5/12/2020 7:04:22 AM,Scan Screen,$1.64,
+82,64,Badger Sheet Metal,a8278cee-e34a-406f-836b-3064555718dc,5/12/2020 7:24:40 AM,Insufficient Funds,$1.87,BWHIT
+83,64,Badger Sheet Metal,1efb5850-24c1-40a2-9a7d-bf8049de05ce,5/12/2020 9:01:06 AM,Insufficient Funds,$4.69,RSTENZ
+84,55,Chem Design,fed7a8cf-85a7-4787-8448-aa2b6a935913,5/12/2020 10:15:41 AM,Scan Screen,$0.99,
+85,47,Bernatellos,282e75b2-2c84-4540-a690-8e42c56f001d,5/12/2020 10:26:45 AM,Scan Screen,$3.38,
+86,64,Badger Sheet Metal,72cd5987-75f5-4a64-9876-3f04296441cd,5/12/2020 10:49:32 AM,Scan Screen,$1.69,
+87,43,Agropur Inc.,3ce128bc-4892-41cb-b795-dd748f6f6c3b,5/12/2020 10:57:04 AM,Pay with Account,$0.98,
+88,43,Agropur Inc.,c99afd10-45dc-4cd1-beb5-eb79d580c513,5/12/2020 10:58:06 AM,Pay with Credit,$0.99,
+89,43,Agropur Inc.,1d12f59f-2c8a-40fe-bdbc-e1fad0523168,5/12/2020 11:00:19 AM,Pay with Credit,$0.99,
+90,55,Chem Design,c808799e-a17c-4d5b-9293-f75a1c85003f,5/12/2020 11:16:07 AM,Insufficient Funds,$3.55,BULL
+91,64,Badger Sheet Metal,b5857d28-713e-4ec2-b714-063675d5ca8b,5/12/2020 12:00:30 PM,Insufficient Funds,$3.75,BLARDI
+92,64,Badger Sheet Metal,02ca45d6-f2c7-4397-aead-36f6cf265c77,5/12/2020 12:02:51 PM,Scan Screen,$5.15,
+93,63,Agropur Cheddar,4df88614-c407-47ab-9e15-3caeaacc22f4,5/12/2020 12:10:43 PM,Insufficient Funds,$1.57,CPENNI
+94,63,Agropur Cheddar,e112b05d-38f9-46c4-b42b-e98bf7e997c5,5/12/2020 12:37:02 PM,Scan Screen,$3.24,
+95,55,Chem Design,fd0a273a-4230-49fa-b3cb-2c6e5bbf1a04,5/12/2020 12:58:16 PM,Insufficient Funds,$0.98,JSTEND
+96,47,Bernatellos,ba080dd4-85ab-4661-80f0-bdbd7fec6e06,5/12/2020 2:48:54 PM,Scan Screen,$1.36,
+97,47,Bernatellos,30ac3476-4852-4641-b71c-97018fe55139,5/12/2020 3:44:07 PM,Pay with Credit,$1.61,
+98,43,Agropur Inc.,80373c11-cfff-4e45-969c-a827c93c2f02,5/12/2020 3:49:03 PM,Scan Screen,$2.99,
+99,63,Agropur Cheddar,a526bd53-853f-4fde-a687-fdece1e4323b,5/12/2020 3:56:31 PM,Scan Screen,$3.51,
+100,43,Agropur Inc.,5a9ae67e-dd8f-4180-8a3d-0ecc017a1f4c,5/12/2020 5:27:09 PM,Insufficient Funds,$1.67,ABRADL
+101,47,Bernatellos,55a9f34f-3083-4909-8ded-f5442b74b143,5/12/2020 7:49:38 PM,Pay with Account,$2.91,
+102,55,Chem Design,a938bf50-209e-4a00-b3d4-9f6120fd6976,5/12/2020 8:58:43 PM,Insufficient Funds,$1.39,RKLEIN
+103,55,Chem Design,aef2dce1-a721-4f45-b72e-3d4fcde96d7e,5/12/2020 9:28:20 PM,Scan Screen,$3.79,
+104,55,Chem Design,96605bc0-1eac-4ac5-91dd-4b021a37c528,5/12/2020 9:28:44 PM,Scan Screen,$4.00,
+105,63,Agropur Cheddar,6d5c2f6a-1b9a-42f3-b5ee-0a9dc61b71c7,5/12/2020 11:51:15 PM,Scan Screen,$4.10,
+106,63,Agropur Cheddar,0c65a394-0bcc-4ca4-9bc5-838a94027d5c,5/12/2020 11:52:36 PM,Scan Screen,$4.52,
+107,63,Agropur Cheddar,2219491d-c005-40d3-97b7-486b6c6e2108,5/13/2020 12:45:39 AM,Insufficient Funds,$1.60,SZEMPE
+108,47,Bernatellos,5fa4494a-cced-4693-acf0-ff7ab9253a00,5/13/2020 3:09:20 AM,Pay with Account,$1.59,
+109,43,Agropur Inc.,80f008d1-2820-4bbe-bcf3-3af430328b27,5/13/2020 3:15:08 AM,Scan Screen,$3.15,
+110,43,Agropur Inc.,106b5b4f-b541-457d-8efc-4955288eb67a,5/13/2020 3:15:24 AM,Scan Screen,$2.52,
+111,43,Agropur Inc.,375c0f44-d6a0-435a-a2b0-7264fed1d594,5/13/2020 3:15:28 AM,Scan Screen,$2.62,
+112,55,Chem Design,f143c6f4-2d06-4ae7-af14-3c4b1c4a5079,5/13/2020 5:17:50 AM,Insufficient Funds,$2.91,BRENT22
+113,64,Badger Sheet Metal,7f860d63-2067-4495-bd91-e54814fce03c,5/13/2020 6:32:21 AM,Pay with Credit,$2.94,
+114,55,Chem Design,d529db2a-1bc9-45b8-a669-2e22d7473cd9,5/13/2020 8:01:10 AM,Scan Screen,$1.40,
+115,55,Chem Design,bcf7e07b-6a4f-4643-81b3-f7abe28a82db,5/13/2020 8:01:38 AM,Insufficient Funds,$1.39,JTUMA
+116,64,Badger Sheet Metal,f3055b99-85f7-4f5c-8a1b-bdca237c4053,5/13/2020 9:38:01 AM,Insufficient Funds,$2.97,JLINDS
+117,47,Bernatellos,9488bb65-8175-423b-ada9-e9981c256066,5/13/2020 10:09:32 AM,Pay with Credit,$3.99,
+118,55,Chem Design,a2b50a90-8918-403d-b0c3-255024783d6d,5/13/2020 10:31:36 AM,Scan Screen,$5.37,
+119,64,Badger Sheet Metal,ee7ec8ef-f6ef-4df5-976a-48e72f8f7021,5/13/2020 11:11:23 AM,Insufficient Funds,$1.59,RSTENZ
+120,55,Chem Design,136f1236-8f88-47c6-bae9-56344e53459e,5/13/2020 11:26:08 AM,Pay with Account,$3.84,
+121,55,Chem Design,08daef57-3108-4cab-be4d-6672f28483c4,5/13/2020 12:09:34 PM,Insufficient Funds,$4.59,BRENT22
+122,55,Chem Design,d3b3a9e1-baac-4148-8b4e-ab302a18161f,5/13/2020 12:18:03 PM,Scan Screen,$4.00,
+123,55,Chem Design,97c47f9d-3174-4d17-95eb-2857e9e6c9ad,5/13/2020 12:18:15 PM,Scan Screen,$3.79,
+124,19,Cellcom,7bd71fe5-6cbc-4d01-84cd-5d4b1f249e3e,5/13/2020 12:42:43 PM,Scan Screen,$3.99,
+125,63,Agropur Cheddar,94dad0f4-8c63-468a-985b-f557d30e2986,5/13/2020 3:47:39 PM,Pay with Account,$1.87,
+126,43,Agropur Inc.,3de4c070-f9b9-46a2-ac19-389c5807d7ba,5/13/2020 4:01:30 PM,Insufficient Funds,$3.85,GJONAT
+127,43,Agropur Inc.,0adf18b5-cb61-4b80-9214-4fc85ca4871d,5/13/2020 4:01:45 PM,Scan Screen,$4.31,
+128,43,Agropur Inc.,2b3f29f5-c4d6-476c-adfb-545fbb17da06,5/13/2020 4:01:56 PM,Scan Screen,$3.79,
+129,63,Agropur Cheddar,648c3092-c680-4f5d-8c19-c8f2126c39e2,5/13/2020 4:08:18 PM,Insufficient Funds,$3.44,BSCHUE
+130,62,Agropur Feta,8108b639-e358-48b0-85b3-61d672ccf2de,5/13/2020 5:55:24 PM,Pay with Account,$1.97,
+131,62,Agropur Feta,ab3a0cae-2ee3-4490-b479-7e7f4974fb64,5/13/2020 5:55:30 PM,Pay with Account,$1.97,
+132,64,Badger Sheet Metal,d9d7dcee-788b-409c-ac50-255923ba127e,5/13/2020 7:05:13 PM,Scan Screen,$3.04,
+133,64,Badger Sheet Metal,06093dbf-62ec-4587-8c15-2909978621da,5/13/2020 8:54:45 PM,Insufficient Funds,$1.76,TSCHAD
+134,43,Agropur Inc.,096ca412-1011-4dbe-a4b9-f5d4f456d643,5/13/2020 9:44:13 PM,Pay with Account,$6.28,
+135,55,Chem Design,4f2e2cd1-6437-4989-908d-7d2c3a870e1d,5/13/2020 11:54:44 PM,Scan Screen,$3.58,
+136,55,Chem Design,c4cbee74-2abd-4459-9f53-7a428ef198fa,5/13/2020 11:55:04 PM,Scan Screen,$5.26,
+137,63,Agropur Cheddar,081863b9-559d-479f-b6aa-92548b4153d5,5/14/2020 12:55:08 AM,Pay with Credit,$1.99,
+138,43,Agropur Inc.,2cf2825c-3cb8-441f-bfd7-b21dd46f4afa,5/14/2020 1:38:51 AM,Insufficient Funds,$1.35,ANDRADEJ
+139,43,Agropur Inc.,c97d96c3-6c3e-4d0d-95c3-576c6a3ca937,5/14/2020 1:57:45 AM,Scan Screen,$3.99,
+140,47,Bernatellos,4e0ed66f-b3aa-4af4-ab29-b044bc2e51c8,5/14/2020 2:38:12 AM,Insufficient Funds,$1.59,MSEEFE
+141,43,Agropur Inc.,2997f217-da40-4677-8129-6c659c65c4df,5/14/2020 2:39:00 AM,Scan Screen,$2.83,
+142,55,Chem Design,99f96dd6-effc-4952-a228-7c873e3049f8,5/14/2020 8:03:07 AM,Scan Screen,$3.78,
+143,55,Chem Design,b8be106f-7333-488a-83d9-9a966f4fc622,5/14/2020 8:42:21 AM,Insufficient Funds,$4.27,TROUBA
+144,64,Badger Sheet Metal,a4027d84-8271-4dfa-9e25-9b24577996c2,5/14/2020 9:02:00 AM,Pay with Credit,$1.59,
+145,64,Badger Sheet Metal,9d7e6cfe-7449-49b2-b8d7-dbe2053ddcdf,5/14/2020 9:06:30 AM,Scan Screen,$3.24,
+146,64,Badger Sheet Metal,f11fef05-8a52-4c83-a62f-98c14899b246,5/14/2020 9:09:09 AM,Insufficient Funds,$4.69,RSTENZ
+147,64,Badger Sheet Metal,06a22040-5607-4266-a091-a5bf48512676,5/14/2020 9:19:31 AM,Pay with Account,$2.29,
+148,47,Bernatellos,b6edf948-9bcb-4831-93e0-fbc34fd8cdca,5/14/2020 10:05:25 AM,Insufficient Funds,$1.50,NKENNE
+149,47,Bernatellos,eca6a2e8-fa8d-4869-aace-e464523e8d85,5/14/2020 11:24:00 AM,Pay with Account,$4.50,
+150,64,Badger Sheet Metal,bc414982-87ae-405d-ab17-39382fb9229b,5/14/2020 11:30:15 AM,Insufficient Funds,$2.60,BWHIT
+151,63,Agropur Cheddar,11d11345-4983-4cd8-ac92-18a923a677b6,5/14/2020 11:55:36 AM,Insufficient Funds,$2.91,MEHIGGI
+152,55,Chem Design,0aee2a5e-50e2-4833-b31c-b514ff4f9cec,5/14/2020 12:14:43 PM,Pay with Credit,$1.87,
+153,47,Bernatellos,2703f475-af8f-4782-a8e1-7d7d4597970c,5/14/2020 12:43:25 PM,Scan Screen,$1.99,
+154,47,Bernatellos,ac44bbdb-f8c8-4760-b120-2193f9bd0903,5/14/2020 12:45:21 PM,Insufficient Funds,$3.44,BJSCHU
+155,47,Bernatellos,77172027-f62a-4b6f-a650-c3fe160c007b,5/14/2020 12:45:48 PM,Insufficient Funds,$3.44,BJSCHU
+156,63,Agropur Cheddar,cb1c14cc-6ed6-4861-93f8-157bd5ed2311,5/14/2020 1:25:26 PM,Pay with Account,$1.87,
+157,62,Agropur Feta,61365137-2e2f-4b98-af2d-2427129905ca,5/14/2020 5:21:55 PM,Pay with Credit,$1.59,
+158,62,Agropur Feta,50bc8af7-f62e-4af2-857b-8d2793e53580,5/14/2020 5:30:28 PM,Scan Screen,$4.20,
+159,62,Agropur Feta,62d3a896-334e-4ce4-ae4d-c728fee74413,5/14/2020 5:54:57 PM,Scan Screen,$3.47,
+160,47,Bernatellos,191ee7bf-523d-4e93-a05d-05d00e9db7dc,5/14/2020 5:57:39 PM,Insufficient Funds,$3.27,OREUZH
+161,63,Agropur Cheddar,73883441-7910-4621-9e28-96959b770f27,5/14/2020 10:46:05 PM,Scan Screen,$3.18,
+162,62,Agropur Feta,da9ca998-2177-432a-899f-0e279fdf3a81,5/14/2020 11:50:20 PM,Insufficient Funds,$4.27,JOHNSON
+163,62,Agropur Feta,a7f40741-87cc-4c80-85c8-1298e4ff70b7,5/15/2020 2:57:44 AM,Insufficient Funds,$1.60,AGABRI
+164,47,Bernatellos,395623c7-c412-49a4-8f6a-2f2b122330c2,5/15/2020 5:00:20 AM,Pay with Credit,$1.89,
+165,47,Bernatellos,8f905b21-08d6-44b9-8d5f-4c38e16c9970,5/15/2020 5:01:00 AM,Pay with Credit,$1.89,
+166,47,Bernatellos,099a6373-3005-48af-9b1f-48ccaf93bde7,5/15/2020 5:02:42 AM,Pay with Credit,$1.89,
+167,55,Chem Design,e6e52c7c-4219-4beb-a0b7-4624f4b2fff0,5/15/2020 7:39:38 AM,Scan Screen,$5.37,
+168,55,Chem Design,95409a50-83cd-4a6e-b68b-c787e536dcfb,5/15/2020 7:39:52 AM,Scan Screen,$4.00,
+169,64,Badger Sheet Metal,57359268-5cf3-4759-aa06-701cde91e9d8,5/15/2020 7:53:58 AM,Scan Screen,$0.80,
+170,43,Agropur Inc.,0758f6db-85be-491e-8272-6d557eac4395,5/15/2020 8:35:05 AM,Scan Screen,$7.11,
+171,64,Badger Sheet Metal,35285c03-a886-4883-96e2-3e5b27f68989,5/15/2020 8:49:39 AM,Insufficient Funds,$1.59,MBIERH
+172,64,Badger Sheet Metal,3fd9715f-ab31-45e2-b198-9f1e1a6684b1,5/15/2020 9:04:52 AM,Insufficient Funds,$1.38,RSTENZ
+173,47,Bernatellos,9bbecb32-1bc0-4003-82a8-8f023898d659,5/15/2020 9:09:56 AM,Scan Screen,$2.94,
+174,64,Badger Sheet Metal,63814143-ad18-43d9-b348-14b30f9d4085,5/15/2020 9:12:00 AM,Insufficient Funds,$1.97,JSWENS
+175,64,Badger Sheet Metal,e8a2a520-d6db-462c-9adb-2f5a7a3d0cb6,5/15/2020 9:38:50 AM,Insufficient Funds,$1.35,MDARI
+176,64,Badger Sheet Metal,eae0dcb6-ef7b-4454-9e32-51b879ec7fef,5/15/2020 11:32:22 AM,Pay with Account,$3.57,
+177,19,Cellcom,68451224-9277-468c-8c34-c4ec2e81d26e,5/15/2020 12:02:41 PM,Insufficient Funds,$8.72,ANGIE B
+178,19,Cellcom,a989e854-cb03-4c05-804e-4a5de520b225,5/15/2020 12:17:17 PM,Pay with Credit,$3.72,
+179,43,Agropur Inc.,60da1784-16b0-464c-b13e-526f8c975d4e,5/15/2020 2:15:48 PM,Pay with Credit,$3.15,
+180,63,Agropur Cheddar,2acf9da4-c0f7-41fd-bae8-37b81045e542,5/15/2020 2:21:36 PM,Insufficient Funds,$1.35,TSTEARNS
+181,55,Chem Design,943dc2e8-8b00-49e8-932a-f1391db3a555,5/15/2020 4:00:11 PM,Scan Screen,$1.99,
+182,63,Agropur Cheddar,2c52d1ae-94b7-41cb-80cd-46b39c3e199e,5/15/2020 4:00:58 PM,Pay with Account,$8.99,
+183,47,Bernatellos,4e4fed3f-5608-47c0-b9d0-6a5d7797c47c,5/15/2020 5:50:36 PM,Pay with Account,$1.59,
+184,63,Agropur Cheddar,a4c600d2-62f6-489a-a594-fd1b41e3ab11,5/15/2020 6:10:10 PM,Pay with Account,$2.91,
+185,63,Agropur Cheddar,8da3114c-af1a-413b-b849-1936e13dafc0,5/15/2020 6:11:00 PM,Scan Screen,$2.94,
+186,55,Chem Design,07608123-cafb-4bde-86f7-87ca89ed8a1d,5/15/2020 6:43:34 PM,Scan Screen,$3.56,
+187,43,Agropur Inc.,337894db-a236-440a-b3ce-0110e74a5577,5/15/2020 8:02:07 PM,Insufficient Funds,$2.08,ADAMS
+188,43,Agropur Inc.,9b4e8da5-d574-49b5-84b5-361948a97822,5/15/2020 8:48:13 PM,Pay with Credit,$1.78,
+189,43,Agropur Inc.,6f145d39-aea7-4d60-9c39-7b6764cf0b59,5/15/2020 9:19:29 PM,Pay with Account,$3.96,
+190,43,Agropur Inc.,077bae5a-89c3-4b07-b881-db46a71c90db,5/15/2020 9:21:34 PM,Pay with Account,$3.96,
+191,43,Agropur Inc.,6cd0a5b7-fb6b-458a-8b1c-3878118f505f,5/15/2020 9:23:10 PM,Pay with Account,$3.96,
+192,55,Chem Design,4bab738c-30af-4f18-8d37-5e6b52136fbe,5/15/2020 9:33:41 PM,Insufficient Funds,$0.83,JHAMRE
+193,43,Agropur Inc.,25052e9c-a896-4187-a301-cfc2e8e491e8,5/15/2020 9:58:25 PM,Insufficient Funds,$3.96,TROSEM
+194,55,Chem Design,c517d9bd-42d4-4a55-87b7-790b42b020a3,5/15/2020 11:57:46 PM,Scan Screen,$1.66,
+195,47,Bernatellos,11aeb2a8-091a-4935-8204-bf5b94f594dd,5/16/2020 12:32:26 AM,Pay with Credit,$4.24,
+196,43,Agropur Inc.,ff5f6cc9-9116-4377-a607-0fcab7af9c43,5/16/2020 12:35:08 AM,Pay with Account,$3.23,
+197,43,Agropur Inc.,d1978df1-63fe-40fd-aba4-7e3f0a26c600,5/16/2020 12:35:43 AM,Pay with Credit,$3.26,
+198,47,Bernatellos,87fefafc-819c-4614-a7b7-c9c65039c778,5/16/2020 5:02:09 AM,Pay with Account,$4.67,
+199,43,Agropur Inc.,8856fc77-7771-4c00-8990-85162e98b126,5/16/2020 6:36:02 AM,Insufficient Funds,$1.38,030182
+200,63,Agropur Cheddar,9c695907-b1ab-4237-88f5-22ad7147d1d3,5/16/2020 7:27:26 AM,Scan Screen,$3.47,
+201,55,Chem Design,e90533fb-5d63-4db3-ac4a-a9e4c7f7f7ca,5/16/2020 7:59:06 AM,Scan Screen,$3.47,
+202,64,Badger Sheet Metal,9be1e053-498d-40ea-ba27-d6b32eb86441,5/16/2020 8:44:18 AM,Scan Screen,$5.31,
+203,47,Bernatellos,b50f2ce7-8e47-4c4c-b4b3-26542a8c5363,5/16/2020 9:32:39 AM,Pay with Credit,$1.61,
+204,19,Cellcom,c2095d80-9ced-4fa3-a190-21cc18563c9e,5/16/2020 11:46:36 AM,Pay with Credit,$3.05,
+205,19,Cellcom,ddd7d73f-f0a5-44eb-a0d0-92748671caa0,5/16/2020 11:47:08 AM,Pay with Credit,$3.05,
+206,19,Cellcom,8ae0085a-668a-46c7-8f0c-2f441ce2beea,5/16/2020 11:47:36 AM,Pay with Credit,$3.05,
+207,19,Cellcom,27aa8b86-20ab-44c0-bf76-5ecbc731ea0b,5/16/2020 11:48:14 AM,Pay with Credit,$3.05,
+208,55,Chem Design,e965a3be-0c8c-4fa0-85f0-3ecb5ea2635c,5/16/2020 12:39:48 PM,Scan Screen,$2.10,
+209,19,Cellcom,4dc6e865-7356-49e7-87ac-5ba873064c08,5/16/2020 12:52:31 PM,Pay with Credit,$3.05,
+210,19,Cellcom,22ba7638-d3a4-45c9-b922-159792a316b9,5/16/2020 12:53:02 PM,Scan Screen,$1.64,
+211,19,Cellcom,eceaa967-ba64-4d6a-b426-b46b0f7a8388,5/16/2020 12:53:21 PM,Scan Screen,$1.64,
+212,47,Bernatellos,a285f6cd-48a9-4951-ae39-c8813aa190ed,5/16/2020 5:33:24 PM,Pay with Credit,$3.18,
+213,62,Agropur Feta,edfdf1ec-6669-481d-b193-84586984ddc2,5/16/2020 6:18:48 PM,Pay with Credit,$1.99,
+214,43,Agropur Inc.,c84aa993-56ac-4d1e-96f1-57973d444049,5/16/2020 7:24:42 PM,Insufficient Funds,$2.96,LTHOMA
+215,47,Bernatellos,1dfebeed-0cfb-4b4a-bbbd-ee17214cd63b,5/16/2020 9:27:23 PM,Scan Screen,$1.61,
+216,63,Agropur Cheddar,731d3f7f-9b7a-47ef-a0b7-1af9a21d2888,5/16/2020 9:40:15 PM,Scan Screen,$3.58,
+217,63,Agropur Cheddar,41d2a69a-204a-473f-8f09-5d227bbddf7e,5/17/2020 12:57:05 AM,Insufficient Funds,$1.35,MHICKE
+218,55,Chem Design,e3cef143-91f3-4d15-803e-13fa13504730,5/17/2020 2:58:00 AM,Pay with Account,$5.30,
+219,47,Bernatellos,ef79bad9-86e5-495a-a512-fd4267a702d0,5/17/2020 3:09:08 AM,Scan Screen,$4.33,
+220,63,Agropur Cheddar,6308e06c-c896-42a9-ba51-424af27c0f66,5/17/2020 4:53:16 AM,Pay with Credit,$3.47,
+221,63,Agropur Cheddar,cca4b787-1838-4a19-bac3-bf27d4dc3f0f,5/17/2020 6:02:23 AM,Scan Screen,$1.69,
+222,62,Agropur Feta,240aa769-1194-47a5-8742-2660bed91f7e,5/17/2020 7:56:32 AM,Scan Screen,$2.41,
+223,64,Badger Sheet Metal,d3198eef-0f7a-4c14-85d4-ae38f5fb409b,5/17/2020 8:12:59 AM,Insufficient Funds,$3.26,MBIERH
+224,63,Agropur Cheddar,0f247ac6-1dfd-4aa6-beb3-e2ebcbecc8c4,5/17/2020 11:01:56 AM,Scan Screen,$1.53,
+225,55,Chem Design,1c6fdcb3-2d87-4850-919c-05acc078c3a0,5/17/2020 12:19:35 PM,Insufficient Funds,$5.38,RBOLEN
+226,63,Agropur Cheddar,e108f67b-d65e-4d4f-8b78-382ab42eb90a,5/17/2020 2:46:27 PM,Scan Screen,$3.24,
+227,55,Chem Design,06d7b588-31c1-4bbd-8859-8e1152a74542,5/17/2020 3:32:17 PM,Pay with Credit,$1.64,
+228,62,Agropur Feta,35bde3d3-df1d-4acf-88f2-0965ae6c5c08,5/17/2020 5:34:37 PM,Insufficient Funds,$3.12,TKEMPF
+229,43,Agropur Inc.,336bb388-9b74-40da-bddf-f515b854763c,5/17/2020 5:43:08 PM,Scan Screen,$2.83,
+230,55,Chem Design,b1f36600-2271-41c0-a146-277a33ab95b0,5/17/2020 6:34:41 PM,Insufficient Funds,$1.62,STEVES
+231,47,Bernatellos,1ace5876-122f-495e-a069-ac32a501c68b,5/17/2020 9:04:20 PM,Insufficient Funds,$1.03,FRUIZ
+232,63,Agropur Cheddar,04e00072-2259-4b0b-8c92-9639ae3b0945,5/17/2020 10:06:12 PM,Scan Screen,$3.24,
+233,62,Agropur Feta,763614f7-f997-4e12-b6e6-f21c51def21a,5/17/2020 11:16:58 PM,Pay with Credit,$2.10,
+234,63,Agropur Cheddar,6a2e0092-bc93-4d98-afd9-dc4bcb479ec5,5/18/2020 12:00:25 AM,Scan Screen,$1.68,
+235,63,Agropur Cheddar,6d9972ba-c673-448a-aae7-29129b4a35c2,5/18/2020 12:42:41 AM,Insufficient Funds,$1.60,SZEMPE
+236,63,Agropur Cheddar,e30483ba-a6ea-4250-be64-3a67ab91907a,5/18/2020 2:56:46 AM,Insufficient Funds,$2.08,MHICKE
+237,64,Badger Sheet Metal,9151c6e3-66e2-45d9-b142-b8c20406a354,5/18/2020 5:55:17 AM,Insufficient Funds,$1.97,BWHIT
+238,62,Agropur Feta,83adea76-7ac1-42e4-a250-8e4799bc30c6,5/18/2020 7:26:31 AM,Insufficient Funds,$1.35,EBARTE
+239,43,Agropur Inc.,aa886a23-1f38-4e96-bf25-407f8be3400f,5/18/2020 7:44:18 AM,Scan Screen,$3.47,
+240,55,Chem Design,c945cc5d-6834-4d58-b439-d01e74ea5b10,5/18/2020 8:15:53 AM,Pay with Credit,$1.64,
+241,55,Chem Design,9c43c821-8f96-4e55-9aa5-cad969b5ad2a,5/18/2020 8:16:30 AM,Pay with Credit,$1.64,
+242,47,Bernatellos,98a3d065-6eb6-4f99-ae3f-1250c00bfd29,5/18/2020 8:37:30 AM,Insufficient Funds,$1.50,NKENNE
+243,64,Badger Sheet Metal,bcb1868b-4949-425e-930f-28ab21f9b74f,5/18/2020 9:17:49 AM,Pay with Credit,$5.37,
+244,64,Badger Sheet Metal,c36ad1a7-1623-402a-ac39-8b0eb6f82cb1,5/18/2020 9:30:46 AM,Scan Screen,$1.99,
+245,64,Badger Sheet Metal,a12940b0-5b32-4c78-bf13-90c1dc387967,5/18/2020 9:31:00 AM,Scan Screen,$5.26,
+246,47,Bernatellos,0bc5bbb7-79bc-4fe8-85f6-c447f5bd05e4,5/18/2020 10:03:53 AM,Scan Screen,$1.36,
+247,63,Agropur Cheddar,7429c09f-6640-4916-ab23-047fff29d0ef,5/18/2020 10:17:54 AM,Insufficient Funds,$3.28,LEPSTE
+248,55,Chem Design,7554241e-ca5f-4e45-bb19-f2b54733495e,5/18/2020 12:15:47 PM,Pay with Credit,$5.26,
+249,43,Agropur Inc.,c08a3ddf-9030-418b-bd45-7d479b91e1f3,5/18/2020 2:01:05 PM,Scan Screen,$1.61,
+250,47,Bernatellos,95638945-f594-420f-b937-3ae0489e31e7,5/18/2020 3:37:31 PM,Insufficient Funds,$1.59,XYANG
+251,47,Bernatellos,ff850b7b-c976-4f20-b39e-015c87b02c6e,5/18/2020 3:38:10 PM,Pay with Credit,$1.61,
+252,62,Agropur Feta,749bfc9e-2443-4e5c-b54c-4846defd9de3,5/18/2020 4:59:47 PM,Scan Screen,$3.24,
+253,62,Agropur Feta,e6079036-cf13-4a65-bbef-8b2347a580d5,5/18/2020 5:00:35 PM,Insufficient Funds,$1.59,JOHNSON
+254,62,Agropur Feta,20d47989-3948-4a64-bbc0-8c298d16024e,5/18/2020 5:16:51 PM,Pay with Account,$2.70,
+255,55,Chem Design,6ce579b3-b663-407b-b476-fb49aafd2609,5/18/2020 6:39:05 PM,Insufficient Funds,$1.62,2752
+256,63,Agropur Cheddar,2b124ad0-27dc-45ce-89f0-06043a67d764,5/18/2020 6:48:58 PM,Insufficient Funds,$1.60,MSCHRO
+257,62,Agropur Feta,7c00623c-8a7a-443a-bc6f-8753a5b334b2,5/18/2020 7:03:57 PM,Scan Screen,$3.47,
+258,55,Chem Design,f9b96f88-e49c-408e-aa4e-eb196674a48b,5/18/2020 9:01:01 PM,Scan Screen,$0.80,
+259,43,Agropur Inc.,4a9bdc04-b8da-42b6-a9a4-4be0d87b7438,5/18/2020 9:20:38 PM,Pay with Credit,$2.73,
+260,47,Bernatellos,4490bb22-ac40-4394-9b38-cdb0bf831dc3,5/19/2020 12:01:42 AM,Insufficient Funds,$1.35,BMOORE
+261,63,Agropur Cheddar,ffe4e712-3abb-48ea-b5ba-fe0af1ff0fe6,5/19/2020 1:11:13 AM,Scan Screen,$4.73,
+262,63,Agropur Cheddar,2b6aad38-31ac-4b36-a906-c662fd38223e,5/19/2020 1:11:51 AM,Scan Screen,$3.26,
+263,63,Agropur Cheddar,66659403-f739-4619-901a-337e06d94d9a,5/19/2020 1:42:21 AM,Insufficient Funds,$5.70,TREV
+264,55,Chem Design,6a3bf64f-83fb-40a6-b4e4-23329138a7fa,5/19/2020 3:58:14 AM,Pay with Credit,$3.38,
+265,64,Badger Sheet Metal,5a44019e-76e9-40a3-a1a6-1fdf7ebe05fb,5/19/2020 5:58:17 AM,Insufficient Funds,$1.08,BWHIT
+266,64,Badger Sheet Metal,ea88fde2-1854-41ff-bf2f-c7c46d9ec2ee,5/19/2020 7:44:48 AM,Scan Screen,$2.83,
+267,64,Badger Sheet Metal,29f82f55-09ed-4d77-8ead-e4cdb47328cc,5/19/2020 9:24:13 AM,Scan Screen,$6.41,
+268,64,Badger Sheet Metal,f8fc09ab-25d2-425d-bc06-2b077fe6cdaa,5/19/2020 9:33:17 AM,Insufficient Funds,$2.39,BWHIT
+269,62,Agropur Feta,7b2247bb-05c9-405c-9ac9-8ddea7e06c85,5/19/2020 10:53:42 AM,Scan Screen,$0.79,
+270,62,Agropur Feta,c94415d1-7ad5-40c6-b24a-a604b78cf1c7,5/19/2020 11:22:56 AM,Pay with Credit,$1.36,
+271,62,Agropur Feta,d7978902-5bb1-49ca-b8e0-30659a257b9f,5/19/2020 11:23:27 AM,Pay with Credit,$1.78,
+272,62,Agropur Feta,43f61b1a-0780-4468-aaac-07d624aa8459,5/19/2020 11:24:19 AM,Pay with Credit,$1.78,
+273,62,Agropur Feta,7ea724c1-8650-466c-a075-963a844ab7b3,5/19/2020 11:25:47 AM,Pay with Credit,$1.78,
+274,47,Bernatellos,1512b4c4-6563-4754-bc8f-ce4abdee59fa,5/19/2020 11:29:03 AM,Scan Screen,$3.22,
+275,64,Badger Sheet Metal,17c67784-fa63-43ef-aa27-65cd0cbf88e1,5/19/2020 11:34:42 AM,Scan Screen,$2.31,
+276,64,Badger Sheet Metal,9921e41a-4a36-4a5e-a7de-6c8fbdd5f892,5/19/2020 12:54:22 PM,Insufficient Funds,$1.59,RSTENZ
+277,47,Bernatellos,3e04f185-7f26-4d32-b300-84f0686ce5b8,5/19/2020 1:01:10 PM,Insufficient Funds,$2.91,MDOTY
+278,64,Badger Sheet Metal,a09bd78c-986b-4e60-9443-0401922a43a9,5/19/2020 3:13:43 PM,Insufficient Funds,$2.91,TSCHAD
+279,63,Agropur Cheddar,7aff560d-28ff-437c-ac6b-0d3daa7dd9cc,5/19/2020 7:35:09 PM,Scan Screen,$2.94,
+280,64,Badger Sheet Metal,8bc54acb-9951-4638-af24-1498e4efe005,5/19/2020 10:01:58 PM,Scan Screen,$3.63,
+281,43,Agropur Inc.,278a8cdf-5260-4ce5-b0b6-f60b734d7bb6,5/19/2020 10:59:04 PM,Pay with Account,$3.95,
+282,47,Bernatellos,f5788252-525b-4d3e-8615-2fcdf318546a,5/20/2020 12:32:52 AM,Pay with Credit,$1.59,
+283,47,Bernatellos,6ba509dd-070f-441e-9b46-0fca73f509fb,5/20/2020 12:33:11 AM,Scan Screen,$1.79,
+284,62,Agropur Feta,41634d7c-7db4-408e-821c-f550a1de9e33,5/20/2020 12:58:06 AM,Insufficient Funds,$1.76,MCERDA
+285,63,Agropur Cheddar,b609be7a-1762-4a67-aa7e-258843a58c6a,5/20/2020 3:41:21 AM,Pay with Credit,$5.67,
+286,64,Badger Sheet Metal,c0239afe-ba98-4a2a-b383-a969cbb9f961,5/20/2020 5:58:56 AM,Insufficient Funds,$3.19,BWHIT
+287,64,Badger Sheet Metal,54fb3746-35f3-483c-9299-4fb2f8b50a3c,5/20/2020 7:21:14 AM,Insufficient Funds,$1.28,RSTENZ
+288,62,Agropur Feta,16247b57-128d-4568-bf31-0b11c9b96fac,5/20/2020 8:14:59 AM,Insufficient Funds,$1.48,APRIES
+289,43,Agropur Inc.,8c05a4fa-ae2e-46e1-b441-88129dba1509,5/20/2020 8:52:12 AM,Pay with Account,$1.97,
+290,43,Agropur Inc.,83df7955-de68-4a94-b827-920296afac8a,5/20/2020 8:53:35 AM,Pay with Account,$1.97,
+291,64,Badger Sheet Metal,3384ea39-5ca8-49d0-a681-84bb1674e65d,5/20/2020 9:29:30 AM,Scan Screen,$1.36,
+292,64,Badger Sheet Metal,1ea645d8-5e91-4bfd-8bbb-8dc956329e92,5/20/2020 9:30:43 AM,Scan Screen,$7.19,
+293,47,Bernatellos,c0e2edf2-e90a-4bdd-b2d4-e55dcb6df51d,5/20/2020 9:41:50 AM,Insufficient Funds,$1.87,CKRUEG
+294,63,Agropur Cheddar,3501448c-71b0-4905-91f6-84090a4c90f7,5/20/2020 9:50:52 AM,Insufficient Funds,$4.94,DSTEAR
+295,47,Bernatellos,396d3cea-5561-4e5c-9105-e1c149ddf519,5/20/2020 10:57:44 AM,Scan Screen,$1.59,
+296,47,Bernatellos,958f6bbf-865a-4405-be3b-e06ec6794519,5/20/2020 11:23:03 AM,Scan Screen,$5.60,
+297,64,Badger Sheet Metal,bc651e09-d503-433d-85b2-2ead071bd684,5/20/2020 11:30:17 AM,Insufficient Funds,$2.29,BWHIT
+298,64,Badger Sheet Metal,8a3a5715-7050-4079-bc84-ed5d0c6d3ae3,5/20/2020 11:54:11 AM,Scan Screen,$3.37,
+299,55,Chem Design,a7bb30f3-23a1-41b9-87ae-43d6b60905d1,5/20/2020 11:55:51 AM,Pay with Credit,$1.36,
+300,64,Badger Sheet Metal,1c2cac67-e7f0-42a0-95aa-3bd069bb4f6b,5/20/2020 1:49:23 PM,Insufficient Funds,$2.08,BWHIT
+301,47,Bernatellos,fd705021-f3f3-4e9a-84dd-cc4678df4aef,5/20/2020 2:12:15 PM,Pay with Account,$1.67,
+302,62,Agropur Feta,a65ad665-4740-4200-bd2c-84234b9ba0d3,5/20/2020 5:45:52 PM,Pay with Credit,$1.59,
+303,63,Agropur Cheddar,58f9c849-554a-40b1-a109-b4736490bcf7,5/20/2020 7:49:23 PM,Insufficient Funds,$2.91,SZEMPE
+304,63,Agropur Cheddar,0cc6b146-bcc8-437e-ace9-74ba01602513,5/20/2020 8:16:59 PM,Insufficient Funds,$1.76,MHICKE
+305,47,Bernatellos,5feeabad-6b40-4aaa-b4c0-d42416fd503a,5/20/2020 9:40:19 PM,Insufficient Funds,$6.79,JAULL
+306,43,Agropur Inc.,2a52f2e8-9324-4d91-a74f-4f4a8466af82,5/21/2020 1:30:52 AM,Pay with Credit,$3.15,
+307,63,Agropur Cheddar,8a969af9-5bd8-46f2-999f-3403cc4ea361,5/21/2020 2:55:41 AM,Insufficient Funds,$2.60,SZEMPE
+308,64,Badger Sheet Metal,49d430bd-39f5-4405-aea6-70f685905e69,5/21/2020 7:14:56 AM,Insufficient Funds,$1.35,RSTENZ
+309,63,Agropur Cheddar,15e97c2d-3223-463c-b2c3-fd9587da1b77,5/21/2020 7:23:31 AM,Pay with Account,$3.21,
+310,64,Badger Sheet Metal,53bfa045-1d95-4e34-a0b2-d5043409db3c,5/21/2020 7:28:00 AM,Insufficient Funds,$2.08,BWHIT
+311,19,Cellcom,e504ca39-1936-44ea-9678-8be448bb8a86,5/21/2020 8:04:22 AM,Pay with Credit,$1.34,
+312,19,Cellcom,d3c9ee52-f9d7-4cd6-a3e1-04f443e0d4e1,5/21/2020 8:05:41 AM,Pay with Credit,$3.53,
+313,55,Chem Design,fb51be93-bb98-420d-b63f-5dba5f528984,5/21/2020 8:31:17 AM,Scan Screen,$4.10,
+314,64,Badger Sheet Metal,4b891faa-8f34-44bc-b2a1-f4227d0002c1,5/21/2020 8:45:04 AM,Pay with Account,$1.97,
+315,64,Badger Sheet Metal,44cdda54-789b-41c5-b0cc-1e84bbb049ba,5/21/2020 9:20:52 AM,Scan Screen,$4.10,
+316,64,Badger Sheet Metal,7eb144f5-ecac-4e15-a6be-077e83d2513e,5/21/2020 9:25:24 AM,Scan Screen,$1.99,
+317,47,Bernatellos,8cc830b2-c038-46be-ac7e-a85043c5c069,5/21/2020 9:47:31 AM,Insufficient Funds,$1.87,SKRENT
+318,64,Badger Sheet Metal,c8a68515-0112-426c-bb1b-be215ad8ed1d,5/21/2020 10:35:02 AM,Insufficient Funds,$1.97,BWHIT
+319,63,Agropur Cheddar,512361c8-098e-49d0-8f35-0a2e28743d36,5/21/2020 11:03:45 AM,Pay with Credit,$4.92,
+320,47,Bernatellos,342b1abf-ad6a-4581-9f82-138603925577,5/21/2020 11:28:14 AM,Insufficient Funds,$1.35,CKRUEG
+321,64,Badger Sheet Metal,6b14c84c-6695-4b19-a039-bad00a5c383e,5/21/2020 12:12:56 PM,Insufficient Funds,$3.96,RSTENZ
+322,64,Badger Sheet Metal,1baa1938-97b8-46c8-9d7f-57859a7ed7c5,5/21/2020 12:29:59 PM,Insufficient Funds,$1.23,CVAC000539138
+323,62,Agropur Feta,e09b9ddb-298c-4261-8332-020a87e94b66,5/21/2020 1:00:22 PM,Insufficient Funds,$1.59,WCULLE
+324,63,Agropur Cheddar,67914990-bd55-4a5f-8921-9da2dbb6a7dc,5/21/2020 1:26:11 PM,Scan Screen,$4.10,
+325,64,Badger Sheet Metal,3579d213-828b-4be1-a4e2-8f1ca7958c1e,5/21/2020 1:31:45 PM,Insufficient Funds,$1.59,RSTENZ
+326,64,Badger Sheet Metal,5b22c869-7e6c-49e3-8096-e9b912b9a7eb,5/21/2020 1:53:18 PM,Insufficient Funds,$3.01,TSCHAD
+327,63,Agropur Cheddar,0ab8c834-3494-4aef-8326-f71718baa176,5/21/2020 3:21:02 PM,Scan Screen,$4.10,
+328,63,Agropur Cheddar,c9a3ae2f-4090-4195-b885-9c00be372236,5/21/2020 3:29:03 PM,Scan Screen,$4.10,
+329,47,Bernatellos,becbc477-e90e-4559-978c-9794ba657cb1,5/21/2020 3:58:48 PM,Insufficient Funds,$1.87,STEPH
+330,62,Agropur Feta,6f24e38c-1ecf-4097-aa95-02a361da027e,5/21/2020 5:03:57 PM,Scan Screen,$8.20,
+331,43,Agropur Inc.,50fc719f-cca5-42bd-a094-bc43fbd2b6c7,5/21/2020 5:27:42 PM,Scan Screen,$2.83,
+332,47,Bernatellos,bae7b292-97d7-44eb-93b5-56cd7edb5715,5/21/2020 5:40:27 PM,Pay with Account,$1.87,
+333,55,Chem Design,37617742-daf7-48fa-920e-f35252dd29d2,5/21/2020 7:00:17 PM,Scan Screen,$3.24,
+334,55,Chem Design,561ae699-359e-4dba-9c56-e8e5f2a15dcf,5/21/2020 8:15:41 PM,Scan Screen,$4.10,
+335,63,Agropur Cheddar,41c1b919-d8d6-4d91-bfd0-5f2b83eecc21,5/21/2020 8:47:59 PM,Insufficient Funds,$2.60,DOSHAW
+336,47,Bernatellos,44caf44a-bdd4-4d84-a6c1-81f6ca66efc0,5/21/2020 9:50:54 PM,Scan Screen,$4.10,
+337,55,Chem Design,754c038f-b4be-4d78-82d8-33861642bd07,5/21/2020 9:53:18 PM,Scan Screen,$4.10,
+338,55,Chem Design,7e3b53d0-abf6-4e9c-8b73-b64caa3f438b,5/21/2020 9:59:46 PM,Pay with Credit,$1.58,
+339,47,Bernatellos,d64cbff8-ec72-497a-a510-ea50a6881a44,5/22/2020 12:10:08 AM,Scan Screen,$4.10,
+340,47,Bernatellos,29d2f3ab-917b-4de8-b616-3170f590e98c,5/22/2020 12:27:40 AM,Pay with Credit,$1.57,
+341,43,Agropur Inc.,74ce9a31-d9e3-42c7-b925-2efc2805c4ad,5/22/2020 3:32:36 AM,Pay with Credit,$4.52,
+342,43,Agropur Inc.,32bfcbb5-2529-4992-a7b0-0e27c1682c18,5/22/2020 4:10:49 AM,Scan Screen,$1.79,
+343,43,Agropur Inc.,983c1c87-b714-403a-ac76-c82e676400be,5/22/2020 4:11:17 AM,Scan Screen,$1.52,
+344,55,Chem Design,de6252fa-b3c5-4d54-b59f-db682a7128d1,5/22/2020 4:36:53 AM,Scan Screen,$4.10,
+345,63,Agropur Cheddar,9b73cd4f-75bd-408b-8503-43a8dd57e850,5/22/2020 6:18:49 AM,Scan Screen,$1.62,
+346,64,Badger Sheet Metal,98de5cd9-989d-41e9-9470-e9f5a85666ab,5/22/2020 6:52:53 AM,Insufficient Funds,$1.03,BWHIT
+347,64,Badger Sheet Metal,c911e488-fe4d-4036-bd95-fb3ac113b89f,5/22/2020 9:02:19 AM,Insufficient Funds,$3.96,RSTENZ
+348,64,Badger Sheet Metal,afc4b189-c473-4886-a7e0-db57854ea7d7,5/22/2020 9:16:48 AM,Scan Screen,$5.58,
+349,63,Agropur Cheddar,1cb99dc5-04a5-44da-98f8-6a077fb3bb4d,5/22/2020 10:29:21 AM,Insufficient Funds,$1.60,MWALDV
+350,64,Badger Sheet Metal,28712bb6-750d-4ba8-9669-123928fe2c86,5/22/2020 11:30:37 AM,Scan Screen,$2.31,
+351,63,Agropur Cheddar,2da1e318-27d4-408c-ac87-3265777b39df,5/22/2020 11:31:46 AM,Scan Screen,$8.06,
+352,64,Badger Sheet Metal,92bc6532-fb4a-4000-a0b9-177d5e08a3b8,5/22/2020 12:06:12 PM,Insufficient Funds,$1.03,AHYER
+353,64,Badger Sheet Metal,02c9cad4-7ef1-4732-9373-a6e702359c13,5/22/2020 12:12:29 PM,Scan Screen,$4.10,
+354,62,Agropur Feta,9a49d847-6207-4daf-9b80-8c307f41d0e7,5/22/2020 12:16:36 PM,Pay with Account,$1.57,
+355,43,Agropur Inc.,02aa4890-5854-4dcd-a833-bc3fd60acc5a,5/22/2020 12:33:54 PM,Insufficient Funds,$3.27,DRANDER
+356,43,Agropur Inc.,8e2793e2-472e-47b2-8e5d-11f571f23a17,5/22/2020 12:34:38 PM,Insufficient Funds,$3.27,DRANDER
+357,63,Agropur Cheddar,d2a5646f-bf26-4c7e-9f4c-55571f42267a,5/22/2020 1:38:28 PM,Insufficient Funds,$1.60,CPENNI
+358,55,Chem Design,72c06610-7717-456e-b4e1-cb2f044e878c,5/22/2020 4:23:37 PM,Insufficient Funds,$3.19,DPOTTE
+359,62,Agropur Feta,10e0d4e9-372d-4b0a-8b71-98b0e4cc9a0e,5/22/2020 4:33:28 PM,Scan Screen,$6.85,
+360,55,Chem Design,2150a6f8-5728-4471-97a5-bf54391b9d97,5/22/2020 4:46:23 PM,Insufficient Funds,$1.50,RDEHUT
+361,63,Agropur Cheddar,33e23d95-c0f7-48d8-b618-4d0e5ff76cdb,5/22/2020 5:00:08 PM,Pay with Account,$1.23,
+362,55,Chem Design,baca9c30-b67b-41f8-9fdc-7699ed7f243b,5/22/2020 5:16:06 PM,Scan Screen,$1.64,
+363,55,Chem Design,1f364c18-5c3d-434f-b758-377f621e8cfd,5/22/2020 5:22:42 PM,Scan Screen,$3.19,
+364,63,Agropur Cheddar,f6bd4f7e-1a71-43ec-be01-79c23b73fff9,5/22/2020 6:23:27 PM,Scan Screen,$1.99,
+365,43,Agropur Inc.,811c83ed-3ada-46e8-b6b1-f2b7788a8ba6,5/22/2020 6:38:38 PM,Scan Screen,$4.10,
+366,55,Chem Design,e4f0364c-34ac-447b-8e07-4a7bfd7b31e9,5/22/2020 6:52:52 PM,Insufficient Funds,$1.62,MHINTE
+367,43,Agropur Inc.,32facedf-cda4-4d48-974a-cfca6e2a687f,5/22/2020 8:37:42 PM,Scan Screen,$4.10,
+368,43,Agropur Inc.,0d98d580-4711-47ff-9275-b7ddd8d2fe94,5/22/2020 10:11:01 PM,Pay with Credit,$4.09,
+369,55,Chem Design,bca91629-55c4-452a-b082-d66a282b5c96,5/22/2020 11:04:40 PM,Insufficient Funds,$1.56,DPOTTE
+370,63,Agropur Cheddar,fa62feab-b90c-4c9e-8455-76d6d9244f5c,5/22/2020 11:09:31 PM,Insufficient Funds,$1.97,TREV
+371,43,Agropur Inc.,232f68a2-06eb-4f0d-b108-f221f039d687,5/23/2020 12:25:48 AM,Pay with Credit,$2.80,
+372,55,Chem Design,b8ccbc94-06ed-4509-a873-68378befbbe2,5/23/2020 12:50:36 AM,Scan Screen,$5.63,
+373,55,Chem Design,6e600f24-e588-44b3-bb48-75e7e1d3e4b1,5/23/2020 12:51:29 AM,Insufficient Funds,$4.88,JVERSL
+374,55,Chem Design,db41f83f-1920-4386-8db8-796d667ba8e4,5/23/2020 1:48:30 AM,Insufficient Funds,$5.24,BRENT22
+375,43,Agropur Inc.,a5735256-28af-4300-959b-d43e06fd58a8,5/23/2020 2:25:41 AM,Scan Screen,$3.04,
+376,43,Agropur Inc.,810565c1-85b0-4692-bd1b-2e05cf87d45d,5/23/2020 2:25:53 AM,Scan Screen,$1.53,
+377,64,Badger Sheet Metal,68727749-c674-40ea-829b-a1c0a16bb4c6,5/23/2020 3:49:47 AM,Scan Screen,$3.24,
+378,55,Chem Design,c5b49af1-1c33-4a8d-be5d-97505f7db9f1,5/23/2020 4:13:31 AM,Scan Screen,$3.47,
+379,55,Chem Design,e70a5d1d-fcf3-4aad-84e7-68b6a2d04551,5/23/2020 4:40:28 AM,Insufficient Funds,$0.83,JHAMRE
+380,63,Agropur Cheddar,582a434e-6a64-4549-b316-0f29298e14dc,5/23/2020 5:02:11 AM,Scan Screen,$2.49,
+381,55,Chem Design,a7d6f6fc-0561-471a-b3c2-a6a5b593a003,5/23/2020 6:36:27 AM,Insufficient Funds,$1.62,BALDY
+382,55,Chem Design,bb672136-e8eb-4db6-8af9-574225e8ea1f,5/23/2020 7:57:36 AM,Scan Screen,$2.94,
+383,55,Chem Design,3f995dd4-3f92-48b0-a9d3-438e8ff4106c,5/23/2020 9:35:00 AM,Pay with Account,$0.83,
+384,55,Chem Design,c66283d4-ada4-4d95-8e94-ba579ba86ea5,5/23/2020 10:11:47 AM,Insufficient Funds,$1.62,STEVES
+385,43,Agropur Inc.,bfa10f21-bd95-4ac2-86d4-f5841e4410b5,5/23/2020 4:57:11 PM,Scan Screen,$1.78,
+386,43,Agropur Inc.,c7c85219-498d-4a18-9e08-904d2ddee73d,5/23/2020 5:45:15 PM,Insufficient Funds,$3.95,SBRADY
+387,43,Agropur Inc.,4c9d6bea-6d11-4ff0-976b-ecf837c62bd8,5/23/2020 5:45:32 PM,Pay with Account,$1.48,
+388,55,Chem Design,2bbe3c68-250e-46e5-bb5b-0279e0b0d570,5/23/2020 6:22:51 PM,Scan Screen,$1.43,
+389,63,Agropur Cheddar,3d69f26e-9e5b-45ba-b189-efece8ec5311,5/23/2020 6:47:10 PM,Insufficient Funds,$1.60,BDITTM
+390,43,Agropur Inc.,c64d509b-504c-4d7a-b92e-358a671351e6,5/23/2020 8:34:53 PM,Insufficient Funds,$2.08,ADAMS
+391,43,Agropur Inc.,d702e8af-5caa-40e5-96c7-5800e5ea81bf,5/23/2020 8:35:35 PM,Insufficient Funds,$2.08,ADAMS
+392,55,Chem Design,5a2dd5a2-2aca-4b8a-920d-3f6341ee288c,5/23/2020 10:02:20 PM,Insufficient Funds,$1.33,BROGER
+393,43,Agropur Inc.,89d837fd-4a52-4823-bc7b-f396a3ca0d30,5/23/2020 10:11:27 PM,Pay with Credit,$0.99,
+394,43,Agropur Inc.,17737f45-6c1c-4190-8449-24b4c7ddc951,5/23/2020 11:48:13 PM,Scan Screen,$4.55,
+395,55,Chem Design,235c7f64-148a-4610-8c35-b8662d5d3c34,5/24/2020 2:54:37 AM,Pay with Credit,$4.08,
+396,55,Chem Design,77dc9a2e-ffe8-41e0-a692-1a4ce1165bdd,5/24/2020 4:12:07 AM,Scan Screen,$4.68,
+397,43,Agropur Inc.,cc59ce03-60a4-4b10-8dc9-e6eb66170867,5/24/2020 6:23:37 AM,Pay with Credit,$2.94,
+398,43,Agropur Inc.,c5d514e4-0071-4b5b-ab31-93f7840804b5,5/24/2020 6:25:01 AM,Pay with Credit,$3.57,
+399,55,Chem Design,82f3bcde-4c66-4d52-9bc0-f9cee1caf502,5/24/2020 6:25:10 AM,Scan Screen,$4.10,
+400,43,Agropur Inc.,eee9eede-88ff-40b3-9d22-07b54389fafd,5/24/2020 6:25:52 AM,Pay with Credit,$3.57,
+401,55,Chem Design,71da611f-5621-4f71-9999-405ab08f7415,5/24/2020 9:24:30 AM,Insufficient Funds,$1.08,BALDY
+402,55,Chem Design,c18df776-de2e-47e6-b36b-62081169c5c7,5/24/2020 9:24:35 AM,Scan Screen,$1.43,
+403,63,Agropur Cheddar,19b1aeea-1c16-4e4d-b10a-b679798a4c09,5/24/2020 11:12:26 AM,Insufficient Funds,$0.98,MWALDV
+404,63,Agropur Cheddar,84875211-4909-4e35-bed9-20c41c5efe34,5/24/2020 11:57:13 AM,Pay with Account,$2.58,
+405,55,Chem Design,938bde32-7cfc-4c0a-85cf-108cac8bee88,5/24/2020 7:01:36 PM,Scan Screen,$2.94,
+406,55,Chem Design,ffe387ef-843d-40aa-8bb4-6e58a9d6386b,5/24/2020 7:01:45 PM,Scan Screen,$2.94,
+407,62,Agropur Feta,ff673e69-4d1b-4fb4-b1b2-3026efac9c1c,5/24/2020 9:02:15 PM,Scan Screen,$2.53,
+408,62,Agropur Feta,12d1b6a6-d1f6-4aa2-ab4e-20a552342120,5/25/2020 12:21:32 AM,Scan Screen,$1.36,
+409,62,Agropur Feta,4df3619d-500e-4e72-8b02-c30145a9ff0e,5/25/2020 12:21:51 AM,Scan Screen,$1.34,
+410,63,Agropur Cheddar,d6ea64df-06f4-478a-9856-0257d0ca946c,5/25/2020 1:50:25 AM,Pay with Credit,$7.88,
+411,43,Agropur Inc.,6948df3f-5e2b-464c-ab3b-5e785ce0931c,5/25/2020 4:57:42 AM,Pay with Account,$1.59,
+412,43,Agropur Inc.,6fd11661-4ade-4c11-89c8-9cac2bb71ffd,5/25/2020 4:57:54 AM,Pay with Credit,$1.61,
+413,43,Agropur Inc.,243c2e5b-11df-4cef-8c1e-216715f58eeb,5/25/2020 10:38:48 AM,Scan Screen,$5.66,
+414,63,Agropur Cheddar,03703112-0450-4d79-a1bd-76f3aec2aae9,5/25/2020 8:46:12 PM,Insufficient Funds,$1.60,DOSHAW
+415,55,Chem Design,5c84a30c-240e-4dc8-93f1-6e97d197ed34,5/25/2020 8:49:12 PM,Pay with Account,$2.43,
+416,55,Chem Design,19525b39-4d6f-4cbf-8d3b-70c72b742082,5/25/2020 9:51:20 PM,Pay with Credit,$3.58,
+417,43,Agropur Inc.,433ad0e9-aa0c-4598-bc84-cbaf929f473c,5/25/2020 9:58:56 PM,Insufficient Funds,$1.59,ISAAC
+418,55,Chem Design,58afd589-c142-4f42-916e-2e7a239ba177,5/25/2020 10:33:14 PM,Insufficient Funds,$2.56,CPOLFU
+419,55,Chem Design,b5105ba3-0abc-486f-9ecb-fafca5b22615,5/25/2020 10:41:02 PM,Insufficient Funds,$4.49,BROGER
+420,55,Chem Design,d50256f7-53a1-447b-91db-0d57ace3e44e,5/25/2020 10:42:17 PM,Insufficient Funds,$5.27,PERKINS
+421,55,Chem Design,9d591257-be07-46db-862c-459290ce951e,5/26/2020 1:07:08 AM,Scan Screen,$1.68,
+422,47,Bernatellos,77a9902f-915a-4ebb-8b54-97214937239e,5/26/2020 1:50:39 AM,Insufficient Funds,$0.98,MOZMEN
+423,62,Agropur Feta,a01893f6-e44f-47af-8308-58e59ec7f55d,5/26/2020 2:46:08 AM,Pay with Credit,$3.30,
+424,64,Badger Sheet Metal,a247e803-483d-432e-b5e5-60b6befc0556,5/26/2020 4:04:55 AM,Pay with Credit,$2.94,
+425,63,Agropur Cheddar,2a3b9b81-2178-4440-a06a-e225a7ffa8f0,5/26/2020 4:35:27 AM,Insufficient Funds,$1.24,CDAVIS
+426,64,Badger Sheet Metal,214e9458-4f8f-409d-8d16-f95e6546a5db,5/26/2020 5:36:03 AM,Scan Screen,$1.99,
+427,55,Chem Design,8133046e-7511-477d-9817-8e82d8900f1d,5/26/2020 5:59:13 AM,Scan Screen,$4.10,
+428,64,Badger Sheet Metal,7eda18b7-7962-4ec7-b714-aaac3f22eea6,5/26/2020 6:37:14 AM,Insufficient Funds,$1.59,TLITKE
+429,47,Bernatellos,0a872034-4aff-420a-a74a-2365832d0d2b,5/26/2020 6:51:34 AM,Pay with Account,$3.44,
+430,47,Bernatellos,b90f57bf-e131-4e4c-ba0b-a7374203afb4,5/26/2020 7:06:51 AM,Scan Screen,$4.10,
+431,64,Badger Sheet Metal,67056b9d-3428-4918-bd01-9cfbd60e134f,5/26/2020 7:15:21 AM,Scan Screen,$3.99,
+432,64,Badger Sheet Metal,db8d83b7-7cc8-47e8-838d-e7c535f74df6,5/26/2020 7:16:36 AM,Scan Screen,$2.83,
+433,43,Agropur Inc.,9e50ad94-93ce-48e8-a0a7-1f68a8899761,5/26/2020 7:37:04 AM,Pay with Account,$2.46,
+434,64,Badger Sheet Metal,5dd98ffb-5172-43a6-a392-fb52f52136e2,5/26/2020 7:39:56 AM,Scan Screen,$1.39,
+435,64,Badger Sheet Metal,158b6ec6-65e0-4e07-996a-87554707e827,5/26/2020 7:59:48 AM,Scan Screen,$3.58,
+436,64,Badger Sheet Metal,95c45aff-068b-4930-96fb-6de9e24dc087,5/26/2020 8:00:25 AM,Insufficient Funds,$1.87,BWHIT
+437,47,Bernatellos,b7a34174-4c3d-41fc-9079-4b6d3a2b218d,5/26/2020 8:11:21 AM,Insufficient Funds,$1.59,TMEYER
+438,64,Badger Sheet Metal,cf5368fb-02e6-4cc0-a0a1-3d37571e9117,5/26/2020 8:59:08 AM,Insufficient Funds,$4.84,RSTENZ
+439,64,Badger Sheet Metal,497175d4-ca5e-4d7f-acf3-2add9ca9f412,5/26/2020 9:14:55 AM,Insufficient Funds,$1.59,JSWENS
+440,64,Badger Sheet Metal,209d1455-e019-4162-b242-b1485f1a865d,5/26/2020 10:53:22 AM,Scan Screen,$3.99,
+441,47,Bernatellos,0d91b0ed-0585-409c-ae8a-9ba48f213f4c,5/26/2020 10:56:27 AM,Insufficient Funds,$3.44,SPEREZ
+442,47,Bernatellos,7751e18e-2bfc-490f-a544-0d2e8cee4bb8,5/26/2020 10:59:44 AM,Pay with Account,$1.59,
+443,55,Chem Design,7b58dbc1-00da-46d7-a15e-95828a1763c2,5/26/2020 11:38:02 AM,Insufficient Funds,$1.87,JEREMY.MCDOWELL
+444,64,Badger Sheet Metal,d455aa1c-8e90-424a-9f2d-1ae402367fa3,5/26/2020 12:02:57 PM,Insufficient Funds,$1.67,BWHIT
+445,64,Badger Sheet Metal,639383c4-08e4-44e5-9ae7-41ffcf9499c1,5/26/2020 2:48:40 PM,Pay with Account,$5.83,
+446,55,Chem Design,bf17e954-f3ab-46f2-9ac3-69cb14a14c7b,5/26/2020 3:54:11 PM,Scan Screen,$4.39,
+447,47,Bernatellos,ec861819-5ec0-4f74-9db5-7dd0ff34a0af,5/26/2020 5:23:14 PM,Insufficient Funds,$1.59,JAULL
+448,63,Agropur Cheddar,c1fc2882-9cf3-45ae-8bd1-988003dfa719,5/26/2020 5:45:13 PM,Scan Screen,$4.79,
+449,47,Bernatellos,f4aba183-1aba-4a29-aa04-165b898a7d33,5/26/2020 6:09:14 PM,Pay with Credit,$2.89,
+450,55,Chem Design,ce490257-39b5-45ba-bdda-723ac96b7eb6,5/26/2020 6:28:06 PM,Pay with Credit,$1.64,
+451,43,Agropur Inc.,750035e0-09df-46e0-bfde-7df30bdcd921,5/26/2020 7:46:24 PM,Pay with Credit,$1.99,
+452,43,Agropur Inc.,efb99899-e017-4a4a-b0b4-4c29d738103c,5/26/2020 7:47:07 PM,Pay with Credit,$1.99,
+453,63,Agropur Cheddar,021e840e-7fe4-4589-8af3-295ada0d4f05,5/26/2020 9:05:49 PM,Scan Screen,$1.36,
+454,63,Agropur Cheddar,5404f6c9-11c3-404f-8478-5553664fbbb2,5/26/2020 9:06:13 PM,Scan Screen,$1.99,
+455,63,Agropur Cheddar,f0b02e24-c2dd-46b4-b734-28209e72be7a,5/26/2020 9:07:31 PM,Scan Screen,$2.00,
+456,63,Agropur Cheddar,592d37c4-9121-460a-a634-09fc70c2a99f,5/26/2020 9:08:00 PM,Scan Screen,$3.47,
+457,62,Agropur Feta,b39f6439-b789-4e8c-8cb3-147c66471f02,5/26/2020 9:13:47 PM,Pay with Credit,$2.10,
+458,47,Bernatellos,26646e21-edf6-4554-ba00-fc6c55fa920a,5/26/2020 9:14:48 PM,Scan Screen,$6.21,
+459,47,Bernatellos,0d567195-0cec-45b7-b251-9e58a85295f8,5/26/2020 9:15:19 PM,Scan Screen,$2.39,
+460,62,Agropur Feta,68609954-cd13-4ef2-9f2b-8fdbda4d3ecf,5/26/2020 10:47:45 PM,Pay with Credit,$2.10,
+461,43,Agropur Inc.,33002f36-1826-4f00-8dc7-127da923a2d6,5/27/2020 12:17:22 AM,Scan Screen,$4.10,
+462,55,Chem Design,ed27c1dc-f6e8-4f4a-b17e-6596676ef3f4,5/27/2020 2:32:02 AM,Scan Screen,$1.64,
+463,63,Agropur Cheddar,49838c43-90df-4f5f-b299-426e881469d5,5/27/2020 2:43:22 AM,Insufficient Funds,$1.60,MINTON65
+464,47,Bernatellos,6619e0a7-64c6-44e5-b260-6cbb0b83d4a1,5/27/2020 3:04:06 AM,Pay with Credit,$3.40,
+465,55,Chem Design,8008059f-728e-4f87-8758-eaf7652108db,5/27/2020 3:15:40 AM,Insufficient Funds,$0.83,CNEEDHAM
+466,43,Agropur Inc.,46cac6ea-28bc-4b25-a35b-757710def755,5/27/2020 3:40:05 AM,Insufficient Funds,$2.62,STRAVI
+467,63,Agropur Cheddar,43054f8a-fa71-45ad-a559-34ef0fd767f4,5/27/2020 4:59:34 AM,Insufficient Funds,$2.47,CHENN26
+468,43,Agropur Inc.,5fa97835-b6ce-48ef-ae78-ca857edaa254,5/27/2020 5:25:14 AM,Pay with Credit,$1.99,
+469,47,Bernatellos,2399e5e3-18e1-41d9-9a6e-dfe9f55eac28,5/27/2020 5:30:32 AM,Insufficient Funds,$1.87,BMOORE
+470,64,Badger Sheet Metal,5e9e8769-d508-4a6c-96db-6291018aa425,5/27/2020 5:57:12 AM,Insufficient Funds,$1.59,RSTENZ
+471,63,Agropur Cheddar,362d0b23-7991-4607-80b1-18c3d0c4f4cc,5/27/2020 6:53:40 AM,Insufficient Funds,$1.97,MSTUEB
+472,63,Agropur Cheddar,8f1272c1-faab-4115-b219-2e5a93275825,5/27/2020 8:11:41 AM,Insufficient Funds,$1.59,DSTEAR
+473,64,Badger Sheet Metal,f654c35b-3866-4f83-84f0-73f0f43db73a,5/27/2020 8:15:31 AM,Insufficient Funds,$1.97,BWHIT
+474,64,Badger Sheet Metal,fcd58b1b-3ab9-4b86-b191-214b3f1d44a8,5/27/2020 8:16:13 AM,Insufficient Funds,$1.03,BWHIT
+475,64,Badger Sheet Metal,8c6235db-61ce-445f-a0b0-35584e64210b,5/27/2020 9:09:44 AM,Insufficient Funds,$1.38,RSTENZ
+476,64,Badger Sheet Metal,9a808e01-031b-48ce-bc01-d969ab5ae216,5/27/2020 9:21:13 AM,Insufficient Funds,$4.55,JSWENS
+477,64,Badger Sheet Metal,89f5c601-5fb2-4e8c-a8e7-e64ee5bbf19d,5/27/2020 9:22:13 AM,Scan Screen,$1.29,
+478,64,Badger Sheet Metal,c4feb03a-e6ff-4a6a-8bf3-5e37fe52297c,5/27/2020 9:25:59 AM,Scan Screen,$2.79,
+479,47,Bernatellos,7e708cd9-e75b-48dc-a870-e841c8df1e47,5/27/2020 10:10:27 AM,Pay with Account,$2.91,
+480,43,Agropur Inc.,8228c34c-b09d-46b1-8563-34629cb1c681,5/27/2020 10:56:41 AM,Pay with Credit,$3.19,
+481,64,Badger Sheet Metal,12a986e4-f5a2-4d43-a273-fba9ed8c2509,5/27/2020 11:34:33 AM,Scan Screen,$1.99,
+482,64,Badger Sheet Metal,6cd4e68f-ee89-40a2-a54f-15d7b6057773,5/27/2020 12:00:37 PM,Insufficient Funds,$4.84,RSTENZ
+483,64,Badger Sheet Metal,ae507acc-5958-4974-9702-b1d47a561c50,5/27/2020 12:03:19 PM,Scan Screen,$2.89,
+484,64,Badger Sheet Metal,c707e792-2110-4423-b820-bfffee09e74e,5/27/2020 12:04:22 PM,Scan Screen,$2.79,
+485,64,Badger Sheet Metal,ea135acf-650f-4a64-973a-ad1d1736d238,5/27/2020 12:04:29 PM,Scan Screen,$2.79,
+486,19,Cellcom,c78ff981-ec10-4c93-847c-64400cdd4b0f,5/27/2020 12:37:45 PM,Insufficient Funds,$1.97,WHEELMAN
+487,13,CP Center,a2252a7c-6e5b-48e4-a050-d4c46aa0c1b0,5/27/2020 12:48:57 PM,Insufficient Funds,$1.76,JKOZIC
+488,55,Chem Design,ffac79d4-7550-40aa-9cb9-72921efb8c53,5/27/2020 1:10:33 PM,Pay with Credit,$0.83,
+489,47,Bernatellos,4bc5a7cb-1531-4dcf-a16b-db8202e80b65,5/27/2020 2:24:47 PM,Pay with Account,$2.67,
+490,62,Agropur Feta,717a3bd4-861d-4031-9694-e7f7bbd32cf1,5/27/2020 2:52:59 PM,Scan Screen,$4.10,
+491,63,Agropur Cheddar,69e1eb71-c4f4-4139-8340-96969ff8d716,5/27/2020 3:29:20 PM,Scan Screen,$1.62,
+492,63,Agropur Cheddar,9264c9b1-764e-4c9c-ac23-0efaabcd662e,5/27/2020 3:29:43 PM,Scan Screen,$1.62,
+493,62,Agropur Feta,ad32df35-6f3e-42df-9e1e-3325f7f053e4,5/27/2020 4:34:47 PM,Scan Screen,$4.10,
+494,47,Bernatellos,afedd648-baaf-4de7-a0d0-c52b7f90c064,5/27/2020 4:45:25 PM,Scan Screen,$4.10,
+495,47,Bernatellos,b82673bb-feed-4b7a-97e0-8b0afd91853c,5/27/2020 5:31:14 PM,Scan Screen,$3.22,
+496,62,Agropur Feta,ee84279a-7e2d-46c9-8567-5ec3a14e02ae,5/27/2020 5:32:35 PM,Insufficient Funds,$0.98,JOHNSON
+497,47,Bernatellos,08e8ea51-dc50-47b4-9af4-915ba54f5f8c,5/27/2020 7:03:28 PM,Insufficient Funds,$2.80,MRBENT
+498,43,Agropur Inc.,888ded28-aa82-4aa9-b032-1fe167539bd0,5/27/2020 7:47:16 PM,Pay with Account,$5.34,
+499,43,Agropur Inc.,bbf8bc67-7db0-4614-8ab2-4dbe01fe7108,5/27/2020 7:48:47 PM,Pay with Account,$5.34,
+500,47,Bernatellos,0c64c821-784e-4ecf-8fde-6fd3949e49af,5/27/2020 8:37:36 PM,Pay with Credit,$3.14,
+501,62,Agropur Feta,ebf81349-450f-4307-8948-109b618bcdb3,5/27/2020 9:36:09 PM,Scan Screen,$3.38,
+502,62,Agropur Feta,524bb4c2-2faa-4891-a216-43e7b0d3030f,5/27/2020 9:41:41 PM,Scan Screen,$4.10,
+503,43,Agropur Inc.,13fc0cd0-0c5b-4501-b463-09ca98f111aa,5/27/2020 10:28:41 PM,Insufficient Funds,$2.08,ADAMS
+504,43,Agropur Inc.,383a0c8e-a576-46ff-bf0d-4cb675a60992,5/27/2020 11:44:14 PM,Pay with Credit,$3.39,
+505,43,Agropur Inc.,cc5d6fc5-c7f3-42e0-8d8b-221f562e2d28,5/28/2020 12:36:29 AM,Insufficient Funds,$1.97,AVILLAR
+506,43,Agropur Inc.,9fd43eac-34fd-46bc-8e7e-5f7ec9644a81,5/28/2020 12:36:47 AM,Insufficient Funds,$1.87,AVILLAR
+507,55,Chem Design,6e0d58c1-6b8f-4654-9c65-77130009ca4f,5/27/2020 6:48:41 PM,Pay with Credit,$2.68,
+508,55,Chem Design,795f7c20-7a9d-400a-9863-ec260280140f,5/27/2020 7:25:53 PM,Pay with Credit,$7.47,
+509,55,Chem Design,3fcdb37a-5e19-4169-b33e-8711b4da1f5f,5/27/2020 8:35:25 PM,Scan Screen,$1.64,
+510,55,Chem Design,d671564d-6a40-4ab5-9feb-5e41a8afd324,5/27/2020 8:37:43 PM,Scan Screen,$1.04,
+511,55,Chem Design,5d965e2e-fb1c-426b-b528-dfef9cdd2312,5/28/2020 1:08:26 AM,Scan Screen,$1.89,
+512,47,Bernatellos,91ba0db5-4e3d-4fc5-a906-e63f713608a8,5/28/2020 3:03:27 AM,Scan Screen,$3.79,
+513,47,Bernatellos,cc98a91b-a8b8-4dcc-8a4c-5e05447fc141,5/28/2020 3:04:04 AM,Scan Screen,$3.39,
+514,47,Bernatellos,97bd1cc5-6577-4d2c-9e78-ec3df0a73252,5/28/2020 3:05:42 AM,Scan Screen,$3.27,
+515,55,Chem Design,2a1a010c-2091-45a7-9688-d2580dba6943,5/28/2020 5:49:53 AM,Pay with Account,$4.06,
+516,64,Badger Sheet Metal,c115bcde-24da-421a-8779-f603b43dd643,5/28/2020 5:58:29 AM,Insufficient Funds,$1.97,BWHIT
+517,64,Badger Sheet Metal,2032c75c-5fd7-4e6d-9b0f-61df426256e1,5/28/2020 8:15:54 AM,Insufficient Funds,$1.97,BWHIT
+518,63,Agropur Cheddar,615282f4-0acf-409e-a3f8-7096025e24c9,5/28/2020 8:53:12 AM,Scan Screen,$1.53,
+519,64,Badger Sheet Metal,61490019-0899-4912-89ad-0317ccc9de53,5/28/2020 11:32:45 AM,Insufficient Funds,$1.24,BWHIT
+520,64,Badger Sheet Metal,903767ca-97cb-46db-8b7f-bcb0295c4d3d,5/28/2020 11:34:03 AM,Pay with Account,$1.38,
+521,62,Agropur Feta,103371a8-33f3-40f3-8921-1833a02f92e2,5/28/2020 11:52:11 AM,Insufficient Funds,$5.24,JGEHRT
+522,62,Agropur Feta,ba61b624-3617-4629-b968-5ff9c454fd7c,5/28/2020 12:59:47 PM,Insufficient Funds,$1.60,KHIGGI
+523,62,Agropur Feta,e79c57a9-b1a0-4b44-8910-218b74c1855b,5/28/2020 1:10:34 PM,Pay with Account,$1.59,
+524,47,Bernatellos,2e625b21-29e0-4fdb-833f-971af1b228cc,5/28/2020 2:24:45 PM,Insufficient Funds,$1.59,TFARR
+525,63,Agropur Cheddar,8c2c54b2-4fbd-4498-8213-228e646c608a,5/28/2020 4:15:04 PM,Scan Screen,$2.89,
+526,43,Agropur Inc.,aa4a698c-1204-4359-9507-f34453b6239a,5/28/2020 4:23:15 PM,Insufficient Funds,$3.95,GJONAT
+527,47,Bernatellos,b622cc2b-8417-4da6-9f46-14bce50628ce,5/28/2020 4:52:08 PM,Pay with Credit,$3.01,
+528,47,Bernatellos,660a02c2-0651-43c4-be08-63952831455d,5/28/2020 5:18:31 PM,Pay with Credit,$1.61,
+529,47,Bernatellos,efa81d06-9d9f-463b-8825-e5267cc0088b,5/28/2020 5:30:11 PM,Pay with Credit,$1.61,
+530,63,Agropur Cheddar,a8758120-a305-4c97-8b76-dcf5531f8c4e,5/28/2020 6:38:44 PM,Insufficient Funds,$0.98,MSCHRO
+531,55,Chem Design,90e25a82-afd5-44b0-960b-23c37dfcf540,5/28/2020 7:13:32 PM,Scan Screen,$0.79,
+532,47,Bernatellos,b35f5b7f-60ce-4f35-9c98-bf5f1b8b8b69,5/28/2020 9:03:39 PM,Insufficient Funds,$2.79,BJSCHU
+533,62,Agropur Feta,6c03b7d2-891c-4e4b-ac77-d38de495d709,5/28/2020 9:12:38 PM,Pay with Credit,$0.99,
+534,62,Agropur Feta,dcc8d461-09b7-4cc5-b3a4-718bed13cbc9,5/28/2020 9:13:27 PM,Pay with Account,$0.98,
+535,64,Badger Sheet Metal,71d4bf99-c106-4695-9c9e-dc38fe1ba157,5/28/2020 9:47:03 PM,Insufficient Funds,$3.01,TSCHAD
+536,55,Chem Design,b9433b45-2310-45ab-8920-e489763e0d6d,5/28/2020 9:56:20 PM,Insufficient Funds,$2.91,CNEEDHAM
+537,43,Agropur Inc.,a68b1f70-50f7-4dca-974e-22e489df543c,5/28/2020 10:11:54 PM,Insufficient Funds,$1.96,AVILLAR
+538,55,Chem Design,03eddd0e-c793-4fd3-ad6f-2f400171717d,5/28/2020 11:23:19 PM,Scan Screen,$1.34,
+539,62,Agropur Feta,55294cf5-36db-47c4-951b-42ef48f65899,5/29/2020 12:05:39 AM,Scan Screen,$1.69,
+540,55,Chem Design,546f5a6f-a1b8-4487-a31d-bad85ff7c9bc,5/29/2020 1:26:05 AM,Scan Screen,$1.66,
+541,47,Bernatellos,066f21a3-c7aa-49b6-8737-da64609aaa75,5/29/2020 2:27:10 AM,Pay with Account,$3.26,
+542,43,Agropur Inc.,c8b1f5ed-2803-4e71-b222-88bc818427f0,5/29/2020 4:40:24 AM,Scan Screen,$4.19,
+543,43,Agropur Inc.,46ff6ab8-b33b-48bc-a972-96b8a8477810,5/29/2020 4:40:50 AM,Scan Screen,$7.99,
+544,43,Agropur Inc.,2ff81fed-0f6b-4712-b8d1-184f0a2c2045,5/29/2020 4:41:05 AM,Pay with Account,$4.15,
+545,43,Agropur Inc.,0c2728f4-5180-47dd-98b8-12963332c8ed,5/29/2020 4:41:19 AM,Pay with Account,$4.15,
+546,64,Badger Sheet Metal,1a26044f-c2a5-4c32-ba32-c21a254f5ae3,5/29/2020 5:00:22 AM,Insufficient Funds,$1.59,BWHIT
+547,64,Badger Sheet Metal,cd47ea36-4bf6-47ab-b090-496edf55df23,5/29/2020 8:34:50 AM,Scan Screen,$4.10,
+548,64,Badger Sheet Metal,bdb71eda-1128-42ac-8a48-2320d9a4096f,5/29/2020 9:24:24 AM,Scan Screen,$3.39,
+549,64,Badger Sheet Metal,ac5e5e40-9c43-4ebf-aed5-486f016b30ee,5/29/2020 9:37:23 AM,Scan Screen,$3.99,
+550,64,Badger Sheet Metal,27ca7542-117f-417c-8e53-34ca524aa5ec,5/29/2020 9:37:39 AM,Scan Screen,$3.99,
+551,64,Badger Sheet Metal,c799ff49-6235-4fe9-8c11-f881c6220bc2,5/29/2020 9:38:12 AM,Scan Screen,$3.79,
+552,47,Bernatellos,35a10b64-61b2-4f41-b8c3-dbaead9ca135,5/29/2020 9:56:01 AM,Pay with Account,$3.47,
+553,64,Badger Sheet Metal,d01b9813-5bff-467f-a46a-93d5c62d15ee,5/29/2020 10:40:40 AM,Insufficient Funds,$1.59,RSTENZ
+554,43,Agropur Inc.,411497db-96c4-49ee-84f0-14a20525329a,5/29/2020 10:52:34 AM,Pay with Account,$1.59,
+555,63,Agropur Cheddar,05671cd6-2370-4cfd-86e8-bdb1358e3d0e,5/29/2020 11:50:09 AM,Scan Screen,$2.68,
+556,55,Chem Design,a67984b5-58c6-48ad-8a64-aad136fe99ed,5/29/2020 2:56:09 PM,Pay with Credit,$2.89,
+557,63,Agropur Cheddar,4753e255-2cd6-40b9-8b0a-2b12c6ee85fd,5/29/2020 4:14:13 PM,Insufficient Funds,$1.57,MINTON65
+558,62,Agropur Feta,7d0803fb-c104-43c6-bd56-8dd0c12bb6da,5/29/2020 5:05:01 PM,Pay with Credit,$5.55,
+559,47,Bernatellos,f030e7f5-6aa5-4fda-83e7-77ab9542f693,5/29/2020 7:34:36 PM,Scan Screen,$2.39,
+560,43,Agropur Inc.,2b6f7140-5e18-4daa-8163-b112cf33ab6e,5/29/2020 11:33:40 PM,Scan Screen,$1.99,
+561,62,Agropur Feta,7f3da708-d944-449d-b2f6-a36065202151,5/30/2020 12:03:49 AM,Pay with Credit,$3.99,
+562,43,Agropur Inc.,8a28d16f-ffb3-4605-b19f-15d493c03814,5/30/2020 12:59:23 AM,Insufficient Funds,$2.91,LTHOMA
+563,43,Agropur Inc.,8f14a006-e29c-43ae-b483-4c933e877e73,5/30/2020 1:55:00 AM,Insufficient Funds,$1.59,TROSEM
+564,55,Chem Design,9af2073c-05ea-481d-a437-570b6fabab82,5/30/2020 4:38:00 AM,Insufficient Funds,$2.37,KYLEM
+565,64,Badger Sheet Metal,f4c3b52a-bff7-4403-85a9-09d96afe5834,5/30/2020 8:20:26 AM,Pay with Credit,$2.97,
+566,63,Agropur Cheddar,647df534-38f0-4667-9c00-3d570488bda1,5/30/2020 9:15:09 AM,Insufficient Funds,$1.35,JEDGREN
+567,55,Chem Design,095fc949-9b84-4666-9cb6-8b39d72e4e6c,5/30/2020 12:07:51 PM,Pay with Credit,$0.83,
+568,47,Bernatellos,e1731c09-6988-4521-869e-b57a404addef,5/30/2020 3:20:37 PM,Pay with Credit,$1.61,
+569,55,Chem Design,e71a3e14-5e2d-4aff-ab60-ecf540dfed54,5/30/2020 3:42:45 PM,Pay with Credit,$1.36,
+570,63,Agropur Cheddar,78fbbacc-0d3d-49a6-abce-7405907d182b,5/30/2020 4:51:52 PM,Pay with Account,$1.35,
+571,47,Bernatellos,43a92d49-6a55-44ae-ba5a-14f46baecc39,5/30/2020 4:53:14 PM,Insufficient Funds,$1.59,JVANEN
+572,63,Agropur Cheddar,5e53e362-e14a-4c6f-ba7e-e24044dc6c2b,5/30/2020 5:58:50 PM,Pay with Account,$1.59,
+573,62,Agropur Feta,574175dd-a342-4c90-8001-1968cc694e89,5/30/2020 7:10:53 PM,Insufficient Funds,$1.60,JMUELL
+574,63,Agropur Cheddar,14cf268e-cf14-4595-9a46-a6c7d7a8b3ef,5/30/2020 7:26:39 PM,Insufficient Funds,$5.62,MINTON65
+575,43,Agropur Inc.,248374bf-3bff-4c23-aa4c-4f2bee7b3ee9,5/30/2020 9:28:19 PM,Pay with Account,$7.93,
+576,63,Agropur Cheddar,50438451-ff58-45b4-80cf-b91f2d2225b0,5/30/2020 11:52:23 PM,Scan Screen,$3.56,
+577,55,Chem Design,172a8b66-4af2-46b5-bb71-1b838b9ef2ac,5/31/2020 12:32:50 AM,Insufficient Funds,$2.50,BOB BEATIE
+578,63,Agropur Cheddar,9c5c2dbd-90fa-486f-ac99-ecaff99b7a03,5/31/2020 3:03:38 AM,Scan Screen,$3.59,
+579,55,Chem Design,3b0f091f-bc6a-42d0-907d-defaaa23d45e,5/31/2020 3:06:40 AM,Scan Screen,$4.10,
+580,63,Agropur Cheddar,b008eaa8-cae4-441c-958f-4873bef8175c,5/31/2020 3:41:14 AM,Pay with Credit,$3.47,
+581,63,Agropur Cheddar,cd4fecd4-4795-4028-a3bf-47e65b4faf66,5/31/2020 5:37:01 AM,Insufficient Funds,$0.89,TSTEAR
+582,55,Chem Design,5d93945a-c1d7-422f-9932-798e04a38911,5/31/2020 6:39:25 AM,Insufficient Funds,$1.24,JKUBASH
+583,55,Chem Design,0445059a-b6d4-4446-9491-2305cf756479,5/31/2020 11:16:20 AM,Insufficient Funds,$2.29,KYLEM
+584,62,Agropur Feta,3f7c7a4c-ad6b-4206-9773-3e291b859099,5/31/2020 12:02:48 PM,Pay with Account,$1.24,
+585,43,Agropur Inc.,3fa9afd4-c05f-4bc3-baf0-a8d2c53f4d28,5/31/2020 5:09:35 PM,Pay with Account,$1.59,
+586,55,Chem Design,d402db8e-9768-4d46-bcae-2c15657b0ed7,5/31/2020 5:17:25 PM,Scan Screen,$2.94,
+587,62,Agropur Feta,8ee5a0c9-3ee1-434f-8add-34ff29c6d421,5/31/2020 6:12:59 PM,Insufficient Funds,$1.60,JMUELL
+588,62,Agropur Feta,e216d069-11d4-4f3e-a39e-be683cc0e7e0,5/31/2020 9:07:15 PM,Pay with Credit,$1.62,
+589,62,Agropur Feta,d48ad882-c603-4624-8b96-2c1d00eb4504,5/31/2020 9:26:08 PM,Scan Screen,$1.36,
+590,55,Chem Design,252402bf-9a50-438a-a4ea-cc9135b5ff2f,5/31/2020 9:39:52 PM,Pay with Credit,$2.94,
+591,43,Agropur Inc.,bb0816d3-f718-47f7-aaad-7e1beac7cc12,5/31/2020 9:41:01 PM,Scan Screen,$4.10,
+592,55,Chem Design,1e0cc5f0-6124-44ed-b875-71a73ea9568d,5/31/2020 10:41:13 PM,Insufficient Funds,$3.75,SKYLAR
+593,55,Chem Design,4a1e56b7-9b8d-4dcf-bae0-89603823e76c,6/1/2020 12:45:17 AM,Insufficient Funds,$1.03,SKYLAR
+594,47,Bernatellos,5e9fa5a1-7269-4038-adef-a4374108cbde,6/1/2020 2:06:37 AM,Scan Screen,$3.22,
+595,63,Agropur Cheddar,97b7baf6-8bf6-49dc-8330-9a071ca29a7f,6/1/2020 2:22:05 AM,Insufficient Funds,$1.97,MINTON65
+596,55,Chem Design,714412b2-2bc6-4606-bfde-511b86eb651f,6/1/2020 4:24:02 AM,Scan Screen,$1.89,
+597,55,Chem Design,faf046ff-44ea-42ef-92ca-5c184b9a34fd,6/1/2020 4:24:05 AM,Scan Screen,$1.89,
+598,55,Chem Design,fd468eba-b448-49ed-9aaa-bd5ff460c9b9,6/1/2020 4:24:11 AM,Scan Screen,$3.04,
+599,43,Agropur Inc.,d5a65101-e519-4c11-95aa-86fc48563dda,6/1/2020 5:07:05 AM,Insufficient Funds,$6.24,LKEVAN
+600,55,Chem Design,c2400b27-20a5-4eab-b486-8e8da709da34,6/1/2020 6:47:14 AM,Pay with Credit,$2.10,
+601,55,Chem Design,960744ed-67cb-4258-949a-9c67d234fa72,6/1/2020 6:47:43 AM,Insufficient Funds,$1.03,STEVES
+602,64,Badger Sheet Metal,c6ccb964-5d87-4f27-9919-7679bf810094,6/1/2020 7:41:06 AM,Scan Screen,$1.39,
+603,64,Badger Sheet Metal,89c2c778-ffbf-41c6-ae71-b1bcf691af21,6/1/2020 7:41:24 AM,Insufficient Funds,$1.38,JLINDS
+604,64,Badger Sheet Metal,7c51dd5f-f0b8-45a0-8105-82f3437e36b3,6/1/2020 8:26:51 AM,Insufficient Funds,$3.16,BWHIT
+605,55,Chem Design,9d87a9c0-6ccb-4a6c-a29d-8ea4100ad7c4,6/1/2020 8:27:03 AM,Insufficient Funds,$4.58,TROUBA
+606,64,Badger Sheet Metal,6f78c075-eaa7-4980-aabd-8f36cd990185,6/1/2020 9:07:01 AM,Scan Screen,$3.39,
+607,64,Badger Sheet Metal,bab55dfc-b5a4-478b-9b24-630f78598a50,6/1/2020 9:16:29 AM,Insufficient Funds,$3.27,JLINDS
+608,47,Bernatellos,89600921-33dc-4001-a815-40b2d31a89df,6/1/2020 9:17:11 AM,Insufficient Funds,$1.77,JESTUP
+609,47,Bernatellos,019d96e6-7774-4a3d-95d5-4bfaf609cbf1,6/1/2020 9:18:07 AM,Scan Screen,$2.79,
+610,64,Badger Sheet Metal,fa87c043-bc65-4912-bd42-ac3f87c93561,6/1/2020 9:18:45 AM,Pay with Credit,$1.99,
+611,55,Chem Design,292cbe32-edb9-4bff-9da6-f0d741ce5c43,6/1/2020 9:34:58 AM,Scan Screen,$1.69,
+612,55,Chem Design,f19059a8-2893-45ab-a65b-2d8b3e28871f,6/1/2020 11:29:55 AM,Insufficient Funds,$4.28,STEVES
+613,43,Agropur Inc.,ea7c1c69-3ba1-4704-92fc-422ed73bab14,6/1/2020 12:12:13 PM,Scan Screen,$1.98,
+614,64,Badger Sheet Metal,c7efcdce-0d95-4754-b90f-6841d698a1ad,6/1/2020 12:22:14 PM,Pay with Account,$1.67,
+615,64,Badger Sheet Metal,567cc98f-462e-40a7-9189-bca69b075d09,6/1/2020 12:27:27 PM,Pay with Account,$1.35,
+616,19,Cellcom,6f15d765-daec-4ae3-be02-bf26b94f7732,6/1/2020 12:36:29 PM,Scan Screen,$0.83,
+617,47,Bernatellos,c3f1521c-5aa4-4230-a7df-818a9654a5a6,6/1/2020 2:32:13 PM,Pay with Account,$1.59,
+618,63,Agropur Cheddar,8e02aad5-f73b-4deb-b312-bfb254e2aedb,6/1/2020 2:36:30 PM,Pay with Credit,$1.69,
+619,62,Agropur Feta,fced4efa-01df-436b-918b-25de1e1e839a,6/1/2020 4:00:36 PM,Insufficient Funds,$1.97,WMITCH
+620,63,Agropur Cheddar,95923c35-a196-42fd-b54b-8b6f29c13284,6/1/2020 5:06:35 PM,Pay with Account,$3.21,
+621,47,Bernatellos,3ce0d855-e309-4ff4-9dab-2e0950474e68,6/1/2020 5:25:06 PM,Pay with Credit,$1.61,
+622,55,Chem Design,fcb0495c-a084-4013-8f00-4eeb259caa3f,6/1/2020 7:22:36 PM,Insufficient Funds,$2.86,SKYLAR
+623,43,Agropur Inc.,039f9492-c9bd-4ad7-8425-173a8fa7bbb1,6/1/2020 9:20:24 PM,Scan Screen,$4.20,
+624,63,Agropur Cheddar,1343120b-85a2-48e4-864a-3d9ad24805aa,6/1/2020 9:57:31 PM,Pay with Account,$1.87,
+625,62,Agropur Feta,97c06441-c9f7-4177-a8ed-9032753ce27d,6/1/2020 11:36:07 PM,Insufficient Funds,$1.08,NATE
+626,43,Agropur Inc.,fc0032e5-f941-416a-8252-90ac1d3cef50,6/2/2020 12:57:09 AM,Pay with Account,$2.70,
+627,43,Agropur Inc.,774e5e19-1138-48e9-bb30-fb157a0aeb09,6/2/2020 1:55:44 AM,Scan Screen,$1.61,
+628,43,Agropur Inc.,172a2a26-d6d9-4180-8e03-a388d7b01c5b,6/2/2020 1:58:15 AM,Pay with Account,$2.57,
+629,47,Bernatellos,233e8b8a-2502-445d-b564-a7d6267e2e4d,6/2/2020 2:49:58 AM,Scan Screen,$3.98,
+630,55,Chem Design,0906e72d-4f20-4848-a7a0-b01926e35cb3,6/2/2020 3:16:02 AM,Pay with Credit,$4.69,
+631,55,Chem Design,a2b56b7b-1225-44c7-b8d0-e9853d95d3f6,6/2/2020 4:12:59 AM,Scan Screen,$1.64,
+632,62,Agropur Feta,a70074fd-a98b-46b5-ae57-dccc99d90c57,6/2/2020 7:07:34 AM,Scan Screen,$2.80,
+633,62,Agropur Feta,cc716664-c632-42ea-9c2a-11ef7ec283d5,6/2/2020 7:07:46 AM,Insufficient Funds,$1.39,EBARTE
+634,62,Agropur Feta,fe50232f-13ec-4beb-8098-690ea85170d3,6/2/2020 8:14:11 AM,Insufficient Funds,$1.24,DPRILL
+635,64,Badger Sheet Metal,3a3eac07-f55c-402e-ad75-0d0c5dd3c8ea,6/2/2020 12:01:49 PM,Insufficient Funds,$1.87,JWILDF
+636,64,Badger Sheet Metal,c71da27f-93b7-49af-b290-c0a0b6279592,6/2/2020 12:02:27 PM,Insufficient Funds,$1.97,BWHIT
+637,64,Badger Sheet Metal,f1091a63-6f9f-4fb5-b605-24de1b2ac50e,6/2/2020 12:10:31 PM,Pay with Credit,$2.39,
+638,62,Agropur Feta,df7164ec-2384-44fb-9830-42a42e3edb9f,6/2/2020 1:18:17 PM,Pay with Account,$5.91,
+639,63,Agropur Cheddar,d840b4fc-c9cd-4269-92f7-ed21c50e49cc,6/2/2020 1:25:19 PM,Scan Screen,$3.99,
+640,55,Chem Design,446576f3-da12-432b-9df1-df21c32509c8,6/2/2020 1:40:59 PM,Pay with Credit,$0.62,
+641,55,Chem Design,c7d8911e-0e7e-4e9c-8e63-8fac17b5261c,6/2/2020 1:41:07 PM,Insufficient Funds,$0.62,CNEEDHAM
+642,55,Chem Design,63187b5d-4eea-460e-ba3b-3c6b74c6f5e7,6/2/2020 2:46:24 PM,Insufficient Funds,$0.83,JGLOVE
+643,63,Agropur Cheddar,cb0f7c21-60b1-4560-880f-fe558ce5ef3f,6/2/2020 3:42:12 PM,Insufficient Funds,$5.43,JIMMER12
+644,47,Bernatellos,b996ae95-0fc3-4101-957d-3d6a6ced46c5,6/2/2020 3:55:24 PM,Insufficient Funds,$1.57,KSTILP
+645,43,Agropur Inc.,b45b416b-2866-4edf-acc2-8248736d6829,6/2/2020 4:32:57 PM,Pay with Credit,$1.78,
+646,47,Bernatellos,0a9bc715-02d0-4e33-b43f-0fadff52645e,6/2/2020 4:50:46 PM,Insufficient Funds,$1.87,FSCHOL
+647,62,Agropur Feta,9ebdcc4a-9fc9-4f04-9da0-3caa0203261e,6/2/2020 5:22:25 PM,Pay with Account,$1.48,
+648,62,Agropur Feta,78dbe060-4297-4d18-a36f-6d15543ea4b4,6/2/2020 5:22:35 PM,Scan Screen,$3.99,
+649,62,Agropur Feta,1bba1515-90b2-46cf-a5ae-8bcbff62b4ca,6/2/2020 5:23:06 PM,Scan Screen,$3.99,
+650,47,Bernatellos,23e6e89d-7600-406b-ab7a-bfd4bfb9373c,6/2/2020 5:37:19 PM,Pay with Credit,$2.94,
+651,47,Bernatellos,9dbfc7fb-ee9c-421c-9c9e-c353fd99d122,6/2/2020 7:35:03 PM,Scan Screen,$1.39,
+652,19,Cellcom,7185961f-e0bb-4b43-a888-388f45179d44,6/2/2020 7:39:38 PM,Pay with Account,$1.40,
+653,62,Agropur Feta,b96b0443-1e88-48bc-a0c6-b3e888426884,6/2/2020 8:57:29 PM,Scan Screen,$0.99,
+654,55,Chem Design,8956bef7-ca53-4138-ad10-4ebf2b765d32,6/2/2020 9:43:17 PM,Insufficient Funds,$5.59,CPOLFU
+655,43,Agropur Inc.,51855c25-6667-4070-9901-79c152029a32,6/2/2020 10:32:56 PM,Pay with Credit,$3.14,
+656,47,Bernatellos,f4316509-bdad-4bfc-b772-f7f731fd3660,6/2/2020 11:16:19 PM,Insufficient Funds,$1.59,GHAEN
+657,55,Chem Design,e0bca6d2-9835-408b-b538-ace37aad2c0a,6/2/2020 11:30:41 PM,Pay with Account,$3.95,
+658,63,Agropur Cheddar,0689b01d-ad3b-4b70-b533-e8822510b59f,6/2/2020 11:32:21 PM,Pay with Account,$1.76,
+659,47,Bernatellos,a4b3e0ad-1284-481e-9965-6f078b253f81,6/2/2020 11:55:39 PM,Pay with Credit,$2.10,
+660,63,Agropur Cheddar,f321b059-f2b3-46ec-bf34-fdc52d4de400,6/3/2020 1:38:55 AM,Pay with Credit,$1.34,
+661,63,Agropur Cheddar,2ff95b73-77ea-4301-81f0-b962318ad3aa,6/3/2020 1:39:34 AM,Pay with Account,$1.24,
+662,43,Agropur Inc.,75085ec3-9ed5-4ccb-bbe5-86f32598c740,6/3/2020 3:07:25 AM,Insufficient Funds,$3.11,ALICIA
+663,47,Bernatellos,8b77503d-257b-4f85-b11c-85671318027d,6/3/2020 3:11:17 AM,Scan Screen,$3.39,
+664,47,Bernatellos,816f8224-b7f1-4f9c-938f-8ef6d994cb69,6/3/2020 3:12:28 AM,Scan Screen,$2.49,
+665,55,Chem Design,fe7ff011-84c3-4507-a42e-0d1b54b2542c,6/3/2020 4:16:27 AM,Scan Screen,$4.19,
+666,63,Agropur Cheddar,d44dc942-1981-408f-aba6-203f06b29d6f,6/3/2020 5:07:51 AM,Insufficient Funds,$3.57,DTELLO
+667,43,Agropur Inc.,4220b401-04fb-44b0-8a57-3d57ee44fe98,6/3/2020 5:33:07 AM,Insufficient Funds,$1.76,ALICIA
+668,55,Chem Design,2dd09c09-8caa-4bc4-a565-f4c08fbd2568,6/3/2020 6:08:55 AM,Pay with Credit,$3.19,
+669,64,Badger Sheet Metal,98c47922-b67c-4a84-a971-5081f8c08d76,6/3/2020 7:02:22 AM,Insufficient Funds,$1.97,BWHIT
+670,64,Badger Sheet Metal,3a86222c-9576-4c3e-a82f-6695b84a7030,6/3/2020 7:02:28 AM,Insufficient Funds,$0.69,BWHIT
+671,64,Badger Sheet Metal,6eba05ed-66a1-44cc-8ce2-0b8f5a93a009,6/3/2020 7:02:45 AM,Scan Screen,$0.78,
+672,55,Chem Design,8bde58e9-4e18-4098-8249-238e505ca89f,6/3/2020 7:10:36 AM,Pay with Account,$2.91,
+673,47,Bernatellos,5e82ce13-0c4e-456d-b860-8222190eb880,6/3/2020 7:28:22 AM,Scan Screen,$4.49,
+674,43,Agropur Inc.,52cb4508-4486-4ea1-9ad5-667d3074ff4d,6/3/2020 7:51:58 AM,Pay with Account,$1.59,
+675,55,Chem Design,33cbe37c-b8aa-4fdb-8fa5-a29e12ff2a3e,6/3/2020 8:56:39 AM,Pay with Account,$1.76,
+676,55,Chem Design,d40b4630-44e5-40a0-9c9a-1c70ba5a557a,6/3/2020 9:01:42 AM,Pay with Credit,$1.04,
+677,64,Badger Sheet Metal,e3fb9f7e-a084-4330-a344-a9e6a0b9c24a,6/3/2020 9:34:35 AM,Scan Screen,$2.41,
+678,63,Agropur Cheddar,1c6e049d-7b7d-4c74-af61-d1254d3822d6,6/3/2020 9:49:53 AM,Insufficient Funds,$4.04,DSTEAR
+679,43,Agropur Inc.,fdab1cbe-e77f-4725-a3a1-c3ead3a70f1c,6/3/2020 10:21:10 AM,Scan Screen,$4.10,
+680,63,Agropur Cheddar,90247f3b-f7a1-425a-89b2-d6de8a1295f1,6/3/2020 11:27:54 AM,Pay with Credit,$1.62,
+681,63,Agropur Cheddar,dda873b0-5e6c-4908-be2b-027b94844387,6/3/2020 11:28:25 AM,Pay with Credit,$1.62,
+682,64,Badger Sheet Metal,e1c265e1-89c9-4049-8d7b-d1ebe327de77,6/3/2020 11:32:19 AM,Insufficient Funds,$1.59,BWHIT
+683,62,Agropur Feta,8591b33b-2a32-4b32-bc57-0c5fc161466f,6/3/2020 11:52:06 AM,Scan Screen,$1.25,
+684,64,Badger Sheet Metal,81d80305-bfbe-4fe1-8302-983fa9d39d67,6/3/2020 12:11:26 PM,Scan Screen,$5.39,
+685,13,CP Center,3d8ef9b4-a34c-46a2-9d45-9f6ea1a92ce7,6/3/2020 12:45:49 PM,Pay with Credit,$1.36,
+686,62,Agropur Feta,34e63cb0-d030-4e8d-8fd9-a691a80ac81f,6/3/2020 12:59:22 PM,Scan Screen,$4.04,
+687,55,Chem Design,ea283b8a-2776-4984-8dfe-d6f8e5e7b086,6/3/2020 1:07:45 PM,Scan Screen,$3.56,
+688,64,Badger Sheet Metal,80c4aca2-64e5-4252-bdce-35f9101620a9,6/3/2020 1:17:57 PM,Scan Screen,$5.88,
+689,64,Badger Sheet Metal,c2ea6504-3116-4be3-a454-c35937f3eea2,6/3/2020 1:18:30 PM,Pay with Credit,$2.94,
+690,47,Bernatellos,01bd6baf-6bd4-44a5-8012-30519209f4c3,6/3/2020 1:23:25 PM,Scan Screen,$2.94,
+691,43,Agropur Inc.,f3a324cc-b968-4e8d-8f8a-c139a48c2cdc,6/3/2020 2:09:16 PM,Scan Screen,$1.61,
+692,43,Agropur Inc.,857eb26a-c7e5-4618-a321-940125ad17cd,6/3/2020 2:09:33 PM,Pay with Account,$1.59,
+693,63,Agropur Cheddar,ba7726e0-2380-4890-9087-a1b96f5c507c,6/3/2020 2:18:13 PM,Scan Screen,$3.24,
+694,64,Badger Sheet Metal,6358edd9-3d8d-4661-9746-ced8113981d3,6/3/2020 2:30:15 PM,Scan Screen,$1.52,
+695,47,Bernatellos,833b0760-49d0-4259-94ff-e27dd40a5adb,6/3/2020 2:32:36 PM,Pay with Credit,$3.29,
+696,62,Agropur Feta,0341703b-c637-4a43-9835-5c69f2cb6f51,6/3/2020 4:53:16 PM,Scan Screen,$4.08,
+697,47,Bernatellos,679a1119-299d-4803-ab1a-391a4713086a,6/3/2020 4:56:55 PM,Pay with Credit,$1.61,
+698,62,Agropur Feta,19c194aa-ea01-4043-8e86-bb81b8566637,6/3/2020 4:59:05 PM,Pay with Credit,$4.96,
+699,47,Bernatellos,1be411d0-1ed3-4f18-a118-04160d168f43,6/3/2020 5:13:19 PM,Scan Screen,$3.78,
+700,47,Bernatellos,55579c79-ece5-438e-a462-b31cf5a01105,6/3/2020 5:18:18 PM,Insufficient Funds,$1.50,XYANG
+701,63,Agropur Cheddar,29824e7e-6e4f-4090-abeb-967434fa7ec5,6/3/2020 5:51:59 PM,Insufficient Funds,$2.91,SZEMPE
+702,43,Agropur Inc.,449b5160-9b45-4e25-8ae9-78001b381c21,6/3/2020 6:47:20 PM,Pay with Account,$1.59,
+703,43,Agropur Inc.,a6e32d3d-7af6-4634-8d3f-737af7211083,6/3/2020 7:44:04 PM,Pay with Account,$3.36,
+704,43,Agropur Inc.,c7c0ad0d-6381-4f5f-8183-e2cfc7ecd63d,6/3/2020 7:44:37 PM,Pay with Account,$3.36,
+705,43,Agropur Inc.,66082d51-ccf3-4764-b3cd-7dd0f6f5df01,6/3/2020 7:45:32 PM,Pay with Account,$3.36,
+706,43,Agropur Inc.,c7e1caad-9fc5-4185-9e04-0f0aff64f640,6/3/2020 7:47:25 PM,Pay with Account,$3.36,
+707,43,Agropur Inc.,f9335451-ec12-4e51-b16c-512b2b409649,6/3/2020 8:20:20 PM,Scan Screen,$3.39,
+708,43,Agropur Inc.,9c59ca91-cd66-45d4-95a7-400ad142046f,6/3/2020 8:20:30 PM,Scan Screen,$4.04,
+709,62,Agropur Feta,f1eb910e-c169-44fe-806a-93ca4744ce40,6/3/2020 9:01:36 PM,Pay with Credit,$4.30,
+710,47,Bernatellos,252157c9-be69-4b43-9351-0acaedbbe2e5,6/3/2020 10:11:39 PM,Pay with Credit,$6.35,
+711,63,Agropur Cheddar,4d9637b5-5bd7-415a-8123-bfa846e3c6a6,6/3/2020 10:42:17 PM,Pay with Credit,$10.15,
+712,63,Agropur Cheddar,83e1c170-0536-4fd1-ac87-dea16f9c5211,6/3/2020 10:42:27 PM,Insufficient Funds,$1.03,MHICKE
+713,63,Agropur Cheddar,638aa52d-7942-4aec-94dd-a20078087f56,6/3/2020 10:42:37 PM,Insufficient Funds,$2.70,MHICKE
+714,55,Chem Design,8af95acb-caa7-4521-bd0b-95b92ca1e2e3,6/3/2020 11:12:51 PM,Insufficient Funds,$4.35,BROGER
+715,55,Chem Design,c50f0b74-90c6-406c-8edc-cdd75c2229b8,6/3/2020 11:13:04 PM,Scan Screen,$4.49,
+716,55,Chem Design,f4c767f2-07c8-472b-a44a-41e37f8b9bae,6/3/2020 11:31:47 PM,Scan Screen,$1.49,
+717,55,Chem Design,2a7b2054-8e64-49da-b1f0-48fdf7b68e6f,6/4/2020 12:52:48 AM,Insufficient Funds,$1.39,RDEHUT
+718,55,Chem Design,54863dd1-af0c-40d9-befa-77d0b8f49783,6/4/2020 12:53:13 AM,Insufficient Funds,$1.42,ACOLE
+719,62,Agropur Feta,1d684c07-21bd-4507-a96d-0698c318c3df,6/4/2020 12:53:31 AM,Pay with Credit,$1.61,
+720,43,Agropur Inc.,c0754744-2367-4760-b54c-6027a24ece51,6/4/2020 1:56:09 AM,Scan Screen,$4.04,
+721,43,Agropur Inc.,3c592a5c-a66f-47c6-8cee-2bac8083041f,6/4/2020 1:56:20 AM,Scan Screen,$4.69,
+722,47,Bernatellos,5b3b2a10-10e6-4af4-98dd-bbd606b6e24d,6/4/2020 2:33:05 AM,Pay with Credit,$1.61,
+723,64,Badger Sheet Metal,fccc2eb2-b12c-4267-a41c-18b526e873b0,6/4/2020 6:43:12 AM,Pay with Credit,$1.29,
+724,43,Agropur Inc.,cc9dd82a-45f4-476a-aac1-c77b0a84c746,6/4/2020 7:17:32 AM,Scan Screen,$0.99,
+725,43,Agropur Inc.,a28fd656-cbbe-4631-93dd-2fe071d8a782,6/4/2020 7:18:24 AM,Pay with Account,$0.98,
+726,64,Badger Sheet Metal,c80e72e3-ee49-47d3-b789-f1ac62e336e3,6/4/2020 7:59:05 AM,Insufficient Funds,$1.59,RSTENZ
+727,55,Chem Design,ce579631-6ec0-4282-816f-998c27b5eef3,6/4/2020 8:46:32 AM,Pay with Credit,$4.49,
+728,55,Chem Design,7c3a8d41-c7fa-484d-9ce9-4304155f3c98,6/4/2020 8:46:52 AM,Pay with Account,$4.45,
+729,64,Badger Sheet Metal,887475bb-9a59-4e01-9130-d2ffe99039df,6/4/2020 9:18:24 AM,Pay with Account,$3.19,
+730,64,Badger Sheet Metal,980aa12e-512c-47ff-97aa-11c255dd4bc4,6/4/2020 9:27:34 AM,Pay with Credit,$1.62,
+731,55,Chem Design,48474806-74f8-4fa5-b10f-354ace208d86,6/4/2020 9:47:01 AM,Scan Screen,$4.89,
+732,55,Chem Design,ca4f42ba-f7e0-4141-b579-672920b9ff08,6/4/2020 10:04:39 AM,Scan Screen,$2.79,
+733,55,Chem Design,49ee849c-84c9-444b-8e95-edd39d28b1c2,6/4/2020 10:05:14 AM,Pay with Credit,$3.83,
+734,64,Badger Sheet Metal,8fa34d22-a2b5-4d62-bac8-497dee2d5ff6,6/4/2020 10:29:31 AM,Insufficient Funds,$3.27,JLINDS
+735,64,Badger Sheet Metal,17f2ed4c-37e3-4a60-878d-5bc81ab6a577,6/4/2020 10:47:49 AM,Pay with Credit,$2.73,
+736,64,Badger Sheet Metal,72fb57ce-4dbb-4b6a-aa88-a6c654ce9f5f,6/4/2020 11:33:28 AM,Insufficient Funds,$2.66,BWHIT
+737,64,Badger Sheet Metal,c0ac3109-7255-4347-9e51-f60d6c2d5982,6/4/2020 11:33:45 AM,Insufficient Funds,$1.59,BWHIT
+738,63,Agropur Cheddar,81693115-8feb-4cfc-91dc-8753c2fa0b56,6/4/2020 11:58:35 AM,Pay with Account,$2.22,
+739,64,Badger Sheet Metal,2d82e910-af80-477e-9a63-1025377c4b89,6/4/2020 12:02:30 PM,Insufficient Funds,$1.87,RSTENZ
+740,19,Cellcom,17729ad8-229a-483e-bc29-b7f9a2b8a488,6/4/2020 12:23:01 PM,Scan Screen,$1.64,
+741,47,Bernatellos,46ef1127-79e5-4f1c-a024-8775c42e199d,6/4/2020 1:25:16 PM,Pay with Credit,$2.94,
+742,55,Chem Design,950a77a5-e725-4d41-8eb8-bf892942c365,6/4/2020 1:49:27 PM,Insufficient Funds,$1.62,JGLOVE
+743,47,Bernatellos,3c19fd22-39c8-428f-920a-fd83897d0415,6/4/2020 2:35:30 PM,Pay with Credit,$2.95,
+744,43,Agropur Inc.,b8f01608-31e6-4b43-a766-29bc962286ea,6/4/2020 3:05:13 PM,Pay with Credit,$1.49,
+745,55,Chem Design,df13fe44-976d-4fb5-99b9-db8843b8863f,6/4/2020 5:13:01 PM,Insufficient Funds,$1.62,BALDY
+746,47,Bernatellos,a2d2e948-9c2a-4b5c-998c-e25b3a989666,6/4/2020 7:13:15 PM,Insufficient Funds,$3.54,BJSCHU
+747,55,Chem Design,93f1bc19-e3a3-4aa1-b731-d63cd33e7026,6/4/2020 7:21:44 PM,Insufficient Funds,$2.91,BRENT22
+748,55,Chem Design,8333d634-04a8-4a07-9030-35bef7bc7740,6/4/2020 7:22:14 PM,Pay with Credit,$0.83,
+749,47,Bernatellos,dd2d6af0-895e-488d-9d94-ad3d8fe3a647,6/4/2020 7:59:56 PM,Insufficient Funds,$5.57,DAULL
+750,47,Bernatellos,de7d59ef-c9dc-4918-87f9-62ddb90e3eed,6/4/2020 8:00:38 PM,Pay with Credit,$5.63,
+751,47,Bernatellos,7752e73a-4219-43a4-ac10-efba4b371b8e,6/4/2020 9:36:10 PM,Insufficient Funds,$2.91,A.J.
+752,47,Bernatellos,ec9b5184-d284-45b4-bc44-cf4df4f572b7,6/4/2020 9:58:20 PM,Insufficient Funds,$2.67,JAULL
+753,63,Agropur Cheddar,931e6c20-1852-4201-a751-b7a8b34fdeef,6/4/2020 10:41:15 PM,Insufficient Funds,$1.35,MHICKE
+754,63,Agropur Cheddar,2d56e931-0d77-488e-93cd-3fb5078ed2db,6/4/2020 11:40:47 PM,Pay with Account,$3.21,
+755,47,Bernatellos,acbf0bb6-7930-407b-abdd-4a7660771050,6/5/2020 12:10:03 AM,Pay with Account,$6.21,
+756,55,Chem Design,840bfb68-f9b2-45c2-8ff8-f4aeb68d2fa1,6/5/2020 12:46:02 AM,Scan Screen,$1.69,
+757,55,Chem Design,f68bb581-3a76-422f-a819-69e5cc00a5fa,6/5/2020 1:56:03 AM,Insufficient Funds,$0.83,BRENT22
+758,55,Chem Design,22f723f4-3365-444d-952e-8e4fbaa238db,6/5/2020 2:53:49 AM,Pay with Credit,$1.64,
+759,62,Agropur Feta,c2ac8368-6213-4034-b129-49eff22249e2,6/5/2020 3:52:51 AM,Pay with Credit,$1.62,
+760,64,Badger Sheet Metal,0551070d-c1a2-4aec-8e7b-7396bea53116,6/5/2020 4:56:58 AM,Pay with Account,$2.91,
+761,62,Agropur Feta,763474d6-076e-4720-a088-2bf05785b35a,6/5/2020 11:02:38 AM,Scan Screen,$3.18,
+762,64,Badger Sheet Metal,a0da0f25-65c7-425f-b287-62362f4d9e7d,6/5/2020 11:12:30 AM,Pay with Credit,$5.06,
+763,13,CP Center,8a56593d-6bd9-419f-8872-0afc9edb03ee,6/5/2020 11:26:23 AM,Scan Screen,$1.79,
+764,47,Bernatellos,573855fe-addb-45ba-8a17-0b637ba09d3f,6/5/2020 12:29:37 PM,Insufficient Funds,$2.76,JESTUP
+765,13,CP Center,49ee6ad2-1ddd-4e61-8398-0ff7ee183da1,6/5/2020 12:34:48 PM,Pay with Credit,$1.25,
+766,47,Bernatellos,8c848c2d-7c86-4647-83a4-fd31ed7353f9,6/5/2020 1:22:30 PM,Insufficient Funds,$1.97,A.J.
+767,55,Chem Design,8b0933a5-ceab-4852-bbe1-e86ce3866d71,6/5/2020 1:42:21 PM,Insufficient Funds,$3.94,RWONDE
+768,63,Agropur Cheddar,71450cdd-2b85-4ab0-9b79-edf4c06f9fba,6/5/2020 2:44:26 PM,Scan Screen,$3.99,
+769,47,Bernatellos,8bd9f60e-f502-4168-89e6-5d8306314b92,6/5/2020 3:33:46 PM,Insufficient Funds,$1.59,RCOLLO
+770,63,Agropur Cheddar,2d070af3-7ac0-4532-bd40-ba39f237ff2f,6/5/2020 3:51:58 PM,Insufficient Funds,$2.70,BSCHUE
+771,62,Agropur Feta,9f611a4a-5483-4216-bb4a-41d7f39d500e,6/5/2020 4:29:51 PM,Scan Screen,$4.10,
+772,62,Agropur Feta,55c77444-6feb-4b03-b9d0-0e9ebe75ff34,6/5/2020 8:10:40 PM,Scan Screen,$1.09,
+773,62,Agropur Feta,357a0128-dbe3-4990-9305-ba04e76c248b,6/5/2020 8:10:49 PM,Scan Screen,$1.49,
+774,63,Agropur Cheddar,6c38710b-565a-4535-b701-decd39139ff9,6/5/2020 9:36:34 PM,Insufficient Funds,$2.76,BSCHUE
+775,63,Agropur Cheddar,edd5be7d-5fdc-4dc7-8789-bc2a86c5d9dc,6/6/2020 2:40:23 AM,Pay with Credit,$1.34,
+776,55,Chem Design,1695f9ee-a848-4689-a2a0-c3ab062cbe0f,6/6/2020 3:41:09 AM,Scan Screen,$4.10,
+777,64,Badger Sheet Metal,05319b20-d83d-48b9-b840-58d355099fd5,6/6/2020 5:26:17 AM,Scan Screen,$5.09,
+778,64,Badger Sheet Metal,817753e1-3076-4859-b2cb-18f84eb1746a,6/6/2020 5:26:28 AM,Scan Screen,$4.49,
+779,64,Badger Sheet Metal,b9a21f7e-ef64-42b1-83b3-59203c63d287,6/6/2020 5:27:00 AM,Scan Screen,$4.69,
+780,64,Badger Sheet Metal,02d5a8f4-e52d-4e6a-9460-2fcc0dc0eba1,6/6/2020 5:27:43 AM,Scan Screen,$6.01,
+781,43,Agropur Inc.,27c098e2-59fb-416e-9b75-39af1cb077f5,6/6/2020 5:52:22 AM,Insufficient Funds,$0.98,JJOSHU
+782,64,Badger Sheet Metal,1b2d4b5b-5f10-4175-af8c-cd6c9abdf0cd,6/6/2020 6:14:30 AM,Insufficient Funds,$1.66,MBIERH
+783,55,Chem Design,ac30dfe3-a599-4da8-b18a-8c38ce858479,6/6/2020 6:49:10 AM,Scan Screen,$3.69,
+784,63,Agropur Cheddar,61899f0f-2e96-4c48-9d1e-e5d03fc2e429,6/6/2020 8:57:53 AM,Scan Screen,$4.04,
+785,63,Agropur Cheddar,b7ff41dd-57bd-421c-9009-7b3477d2f9b0,6/6/2020 9:55:14 AM,Scan Screen,$1.69,
+786,63,Agropur Cheddar,b46b4b08-f4d2-4ff5-9b40-1b1542f6667e,6/6/2020 10:21:07 AM,Scan Screen,$2.99,
+787,64,Badger Sheet Metal,07232657-f87c-43ca-81f2-5f32835d8a30,6/6/2020 10:35:31 AM,Scan Screen,$1.53,
+788,43,Agropur Inc.,f2b4a86a-133d-49fd-82a7-fb71cc4d2b73,6/6/2020 3:01:03 PM,Scan Screen,$5.39,
+789,47,Bernatellos,293656f9-5b82-40a6-91ca-191167a032b9,6/6/2020 3:58:33 PM,Insufficient Funds,$6.68,VMUNIZ
+790,47,Bernatellos,0ed5194e-2b4a-46bf-8cbb-a46e37423612,6/6/2020 3:59:04 PM,Insufficient Funds,$4.47,VMUNIZ
+791,47,Bernatellos,7ba9797a-f6f1-4423-9374-353bda9c0273,6/6/2020 5:00:00 PM,Pay with Account,$2.91,
+792,47,Bernatellos,9a6a1452-ec6e-4ab3-ac10-b735a8fdd0ef,6/6/2020 5:39:36 PM,Scan Screen,$6.98,
+793,43,Agropur Inc.,9d81e75a-555d-42bc-a6ef-9939f44f2535,6/6/2020 10:31:04 PM,Scan Screen,$1.61,
+794,62,Agropur Feta,98b54469-e8f5-4d34-8c15-8b846da9d3cd,6/6/2020 10:58:13 PM,Insufficient Funds,$5.62,JOHNSON
+795,62,Agropur Feta,70ff83c0-4d7d-43bf-9d8b-a95a00fef859,6/6/2020 10:58:19 PM,Scan Screen,$2.79,
+796,62,Agropur Feta,05c6b031-b86f-415c-9877-488812deae99,6/6/2020 11:14:07 PM,Scan Screen,$5.47,
+797,62,Agropur Feta,849884c3-7edd-4e09-ab42-3fc94d1a683d,6/7/2020 1:32:40 AM,Scan Screen,$1.29,
+798,62,Agropur Feta,f5cb8318-ac60-46f8-aad6-c061e388a00c,6/7/2020 1:42:14 AM,Scan Screen,$1.99,
+799,47,Bernatellos,5b87d363-e198-4527-aada-decd1e7d6c28,6/7/2020 3:05:52 AM,Scan Screen,$4.86,
+800,43,Agropur Inc.,09c96c77-36c4-4725-95b3-894148200b7a,6/7/2020 4:08:42 AM,Scan Screen,$3.99,
+801,43,Agropur Inc.,2ccf8d52-bd2d-45b4-87ad-71c178a9c42a,6/7/2020 4:09:02 AM,Scan Screen,$1.99,
+802,43,Agropur Inc.,b452f27b-42ac-4222-96cb-d01cdbda9da5,6/7/2020 4:10:41 AM,Scan Screen,$1.59,
+803,43,Agropur Inc.,ddc00a15-afa7-4b61-824b-a3a4a3669fbd,6/7/2020 4:11:31 AM,Scan Screen,$4.96,
+804,43,Agropur Inc.,d629d3e9-51da-41ee-9b01-bfe7686746eb,6/7/2020 4:11:36 AM,Scan Screen,$1.49,
+805,64,Badger Sheet Metal,af59198c-ebe7-487a-9f38-d00b6262aa41,6/7/2020 4:13:44 AM,Scan Screen,$0.69,
+806,47,Bernatellos,24bbc5da-6e03-48ce-ab32-434cf1c8b4db,6/7/2020 7:52:09 AM,Insufficient Funds,$2.80,MDOTY
+807,47,Bernatellos,8ce693e4-9897-4474-b700-ea799784be0b,6/7/2020 7:53:03 AM,Scan Screen,$2.83,
+808,64,Badger Sheet Metal,c4d4ce34-acb2-404e-a515-b6b8c57052ad,6/7/2020 9:28:47 AM,Scan Screen,$0.69,
+809,64,Badger Sheet Metal,e461c155-18e3-41ce-b994-4f9245194803,6/7/2020 9:28:58 AM,Scan Screen,$0.69,
+810,63,Agropur Cheddar,64e2e5c6-f49e-48a0-9135-767e3ad386df,6/7/2020 11:59:45 AM,Scan Screen,$1.36,
+811,64,Badger Sheet Metal,dac08c7e-c2f2-4f88-a9ad-71b353aa683f,6/7/2020 12:20:33 PM,Scan Screen,$1.69,
+812,64,Badger Sheet Metal,46c3be45-3d68-412b-8360-d38efa80278c,6/7/2020 12:20:47 PM,Scan Screen,$1.69,
+813,62,Agropur Feta,2812715d-41cc-48ce-85ae-b88ca8a62db1,6/7/2020 1:29:07 PM,Scan Screen,$1.99,
+814,63,Agropur Cheddar,07a6b5ad-5929-41c9-9c0d-6fd89fd00e70,6/7/2020 9:17:42 PM,Insufficient Funds,$2.91,MSCHRO
+815,55,Chem Design,1e2aa72d-bcd0-46a3-a423-57b8275a0320,6/7/2020 10:32:13 PM,Insufficient Funds,$2.80,JEREMY.MCDOWELL
+816,62,Agropur Feta,40fcad8a-2cee-4928-bbfe-0ac1c8d30c4a,6/8/2020 1:23:04 AM,Scan Screen,$4.10,
+817,55,Chem Design,e543542f-82b4-4e2d-b332-e2f4f01bfa30,6/8/2020 1:59:46 AM,Insufficient Funds,$0.83,JEREMY.MCDOWELL
+818,47,Bernatellos,49fae49a-dcb6-4613-8d94-2612de720989,6/8/2020 2:20:54 AM,Scan Screen,$2.65,
+819,55,Chem Design,8c3a4354-7d0c-4ba6-bfde-e17b1d8b39e7,6/8/2020 6:52:10 AM,Insufficient Funds,$6.24,CPOLFU
+820,64,Badger Sheet Metal,2c682b4e-4934-4dd1-bb14-bd347685b393,6/8/2020 7:46:45 AM,Insufficient Funds,$4.84,BWHIT
+821,64,Badger Sheet Metal,2207f7a3-ab9e-4c1a-93e4-2f51e4f69894,6/8/2020 7:54:42 AM,Insufficient Funds,$1.59,RSTENZ
+822,64,Badger Sheet Metal,37f8e2ec-2bf6-4964-95fd-ffd8ec816055,6/8/2020 9:03:42 AM,Scan Screen,$4.40,
+823,47,Bernatellos,01548ae2-6c57-4c54-8403-dfd45b483f40,6/8/2020 11:43:07 AM,Pay with Account,$1.59,
+824,64,Badger Sheet Metal,908b2f34-073c-474a-8910-eb7628a58662,6/8/2020 12:00:34 PM,Pay with Account,$1.38,
+825,63,Agropur Cheddar,4411c42c-f740-4e41-a5bf-b5e00d2d5390,6/8/2020 12:10:28 PM,Insufficient Funds,$3.75,TBOCK
+826,64,Badger Sheet Metal,c8afb81f-e5a1-4705-9bc5-4cf41b63b2f8,6/8/2020 12:30:52 PM,Pay with Account,$1.59,
+827,47,Bernatellos,65c89c27-f683-4ace-b27a-53b2513848fd,6/8/2020 1:07:09 PM,Pay with Credit,$1.61,
+828,47,Bernatellos,5d931650-849e-4e3b-801a-5e8bbfe96e54,6/8/2020 1:07:30 PM,Pay with Credit,$1.61,
+829,62,Agropur Feta,e2656253-b122-4918-9bb4-85ba338c9721,6/8/2020 1:44:12 PM,Insufficient Funds,$1.59,TBOCK
+830,63,Agropur Cheddar,b0b44dc6-f4f3-4168-8067-cc4ae0678017,6/8/2020 2:53:30 PM,Insufficient Funds,$1.59,DSTEAR
+831,63,Agropur Cheddar,84ea738a-ae93-4058-a077-36073935aaa3,6/8/2020 4:02:33 PM,Insufficient Funds,$0.98,DSTEAR
+832,62,Agropur Feta,2ff70d3f-19b0-4fe2-8daf-83c3e983f4ac,6/8/2020 4:53:01 PM,Insufficient Funds,$9.74,BRBELLI
+833,63,Agropur Cheddar,8c31734a-d7c3-412a-b36a-5bf130f36ce6,6/8/2020 5:40:57 PM,Pay with Credit,$1.62,
+834,43,Agropur Inc.,c98b4b75-ddf0-413d-82fc-a4f060960fa2,6/8/2020 6:22:33 PM,Pay with Account,$4.64,
+835,63,Agropur Cheddar,f4c21e74-9249-45ec-bc2d-0a42cbcbf845,6/8/2020 8:10:20 PM,Scan Screen,$5.49,
+836,55,Chem Design,27dda6b2-c127-48d3-bd9e-1fb760282349,6/8/2020 8:46:51 PM,Scan Screen,$5.78,
+837,55,Chem Design,59781866-ed00-4520-8bf3-b3054833901f,6/8/2020 8:47:19 PM,Scan Screen,$4.69,
+838,47,Bernatellos,b6cc1707-f32a-4b2f-889d-456a49515560,6/8/2020 10:46:22 PM,Pay with Credit,$1.04,
+839,47,Bernatellos,7f85136b-a889-401d-af20-f2f343f4f404,6/8/2020 11:08:46 PM,Scan Screen,$9.70,
+840,55,Chem Design,f049f269-3da3-4be1-9f74-29069ef98d58,6/9/2020 1:00:31 AM,Scan Screen,$1.64,
+841,55,Chem Design,a46c3283-11d8-43db-841d-db8021bb85bc,6/9/2020 2:05:51 AM,Scan Screen,$2.59,
+842,64,Badger Sheet Metal,0cd09ffd-c6a3-4851-81d3-9fbeed56daa1,6/9/2020 8:44:39 AM,Insufficient Funds,$1.77,TPETIT
+843,64,Badger Sheet Metal,ef3d84d8-f9dc-4345-8671-e12c84944ab8,6/9/2020 9:06:42 AM,Scan Screen,$2.94,
+844,64,Badger Sheet Metal,8f0f9761-18f0-4c4a-8db3-aae587198ebb,6/9/2020 9:16:55 AM,Insufficient Funds,$1.59,RSTENZ
+845,63,Agropur Cheddar,7a81fab7-f97c-456c-acd2-fe2e4ac5c2dd,6/9/2020 9:52:01 AM,Pay with Account,$1.35,
+846,55,Chem Design,c76955cd-b810-4334-aff7-28fb975167d3,6/9/2020 10:03:31 AM,Insufficient Funds,$3.01,JSTEND
+847,63,Agropur Cheddar,34fe3e0a-8f00-4ae8-b64c-9ab7502d3475,6/9/2020 10:56:56 AM,Pay with Credit,$1.99,
+848,62,Agropur Feta,6f03c447-67e5-4189-a480-4f90ba458797,6/9/2020 11:02:40 AM,Insufficient Funds,$4.64,JLENOB
+849,,,,,,,
+850,Filters Used,,,,,,
+851,Locations,"Agropur Cheddar, Agropur Feta, Agropur Inc., Badger Sheet Metal, Bernatellos, Cellcom, Chem Design, Constellation Building, CP Center",,,,,
+852,Date From,5/9/2020,,,,,
+853,Date To,6/9/2020,,,,,
